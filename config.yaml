@@ -1,0 +1,27 @@
+seed: 2025
+
+model:
+  lmm_model: "Qwen/Qwen2-VL-7B-Instruct"
+
+training:
+  batch_size: 1
+  max_new_tokens: 1024
+  temperature: 0.6
+  top_p: 0.9
+
+dml:
+  nuisance_model: "LightGBM"
+  n_estimators: 200
+  learning_rate: 0.05
+  max_depth: 6
+
+bootstrap:
+  n_iterations: 1000
+
+paths:
+  dataset_root: "./data"
+  output_dir: "./outputs"
+  checkpoint_dir: "./checkpoints"
+
+experiment:
+  test_mode: false
