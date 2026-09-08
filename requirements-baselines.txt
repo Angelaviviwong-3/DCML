@@ -1,0 +1,6 @@
+# Optional recommendation models; these GPU/TensorFlow paths were not rerun
+# during publication packaging. See docs/REPRODUCIBILITY.md.
+-r requirements.txt
+torch>=2.4,<3
+torch-geometric>=2.5,<3
+tensorflow>=2.16,<2.19

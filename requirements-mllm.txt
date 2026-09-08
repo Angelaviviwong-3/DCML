@@ -1,0 +1,8 @@
+# Optional: install a PyTorch build suitable for your CUDA environment first.
+-r requirements.txt
+torch>=2.4,<3
+torchvision>=0.19,<1
+transformers>=4.45,<5
+accelerate>=0.34,<2
+qwen-vl-utils>=0.0.8,<0.1
+Pillow>=10,<13

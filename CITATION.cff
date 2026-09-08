@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript when using this research code."
+type: software
+title: "DCML: Multimodal Treatment Measurement and Double Machine Learning"
+version: "1.0.0"
+authors:
+  - family-names: Wang
+    given-names: Huan
+    orcid: "https://orcid.org/0009-0001-6868-271X"
+  - family-names: Shi
+    given-names: Yongdong
+    orcid: "https://orcid.org/0000-0002-5812-1732"
+  - family-names: Fan
+    given-names: Chunyan
+    orcid: "https://orcid.org/0009-0003-5115-8158"
+  - family-names: Chen
+    given-names: Shuixia
+    orcid: "https://orcid.org/0000-0001-7275-3149"
+preferred-citation:
+  type: unpublished
+  title: "From Multimodal Cues to Funnel Outcomes: MLLM-Based Treatment Measurement and Double Machine Learning in E-Commerce Recommendation"
+  year: 2026
+  authors:
+    - family-names: Wang
+      given-names: Huan
+    - family-names: Shi
+      given-names: Yongdong
+    - family-names: Fan
+      given-names: Chunyan
+    - family-names: Chen
+      given-names: Shuixia

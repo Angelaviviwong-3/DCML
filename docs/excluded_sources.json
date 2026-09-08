@@ -1,0 +1,1698 @@
+[
+  {
+    "source": "Unified_Visualization/benchmark_latency.py",
+    "reason": "Earlier visualization/measurement workflow, replaced by the final audit"
+  },
+  {
+    "source": "Unified_Visualization/generate_and_evaluate_human_validation.py",
+    "reason": "Earlier visualization/measurement workflow, replaced by the final audit"
+  },
+  {
+    "source": "Unified_Visualization/generate_and_evaluate_human_validation_amazon_app.py",
+    "reason": "Earlier visualization/measurement workflow, replaced by the final audit"
+  },
+  {
+    "source": "Unified_Visualization/plot_figure_4_identification_diagnostics_20260720.py",
+    "reason": "Earlier manuscript figure layout"
+  },
+  {
+    "source": "Unified_Visualization/plot_figure_5_stage_specific_effects_20260720.py",
+    "reason": "Earlier manuscript figure layout"
+  },
+  {
+    "source": "Unified_Visualization/plot_figure_6_effect_modification_20260720.py",
+    "reason": "Earlier manuscript figure layout"
+  },
+  {
+    "source": "Unified_Visualization/plot_figure_7_prediction_performance_20260720.py",
+    "reason": "Earlier manuscript figure layout"
+  },
+  {
+    "source": "Unified_Visualization/plot_figure_8_gs_sensitivity_20260720.py",
+    "reason": "Earlier manuscript figure layout"
+  },
+  {
+    "source": "Unified_Visualization/plot_figure_9_suning_decision_profiles_20260720.py",
+    "reason": "Earlier manuscript figure layout"
+  },
+  {
+    "source": "Unified_Visualization/unified_ate_funnel_plot_RQ2.py",
+    "reason": "Earlier visualization/measurement workflow, replaced by the final audit"
+  },
+  {
+    "source": "Unified_Visualization/unified_cate_moderation_plot_RQ3.py",
+    "reason": "Earlier visualization/measurement workflow, replaced by the final audit"
+  },
+  {
+    "source": "Unified_Visualization/unified_ecdf_plot_RQ1.py",
+    "reason": "Earlier visualization/measurement workflow, replaced by the final audit"
+  },
+  {
+    "source": "Unified_Visualization/unified_mediation_plot_RQ3.py",
+    "reason": "Earlier visualization/measurement workflow, replaced by the final audit"
+  },
+  {
+    "source": "Unified_Visualization/unified_orthogonalization_plot_RQ1.py",
+    "reason": "Earlier visualization/measurement workflow, replaced by the final audit"
+  },
+  {
+    "source": "Unified_Visualization/unified_placebo_plot_RQ5.py",
+    "reason": "Earlier visualization/measurement workflow, replaced by the final audit"
+  },
+  {
+    "source": "Unified_Visualization/verify_positivity_RQ5.py",
+    "reason": "Superseded support check; final support diagnostics are part of dcml_inference"
+  },
+  {
+    "source": "Unified_Visualization/verify_positivity_RQ5_20260711.py",
+    "reason": "Superseded support check; final support diagnostics are part of dcml_inference"
+  },
+  {
+    "source": "Unified_Visualization/verify_positivity_RQ5_20260712.py",
+    "reason": "Superseded support check; final support diagnostics are part of dcml_inference"
+  },
+  {
+    "source": "Unified_Visualization/verify_positivity_RQ5_20260713.py",
+    "reason": "Superseded support check; final support diagnostics are part of dcml_inference"
+  },
+  {
+    "source": "baseline/A_base/CIRS/MF/BPR_PC.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/CIRS/MF/batch_test.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/CIRS/MF/load_data.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/CIRS/MF/load_data_old.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "baseline/A_base/CIRS/MF/model_api.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/CIRS/MF/model_api_old.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "baseline/A_base/CIRS/MF/parse.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/CIRS/MF/sampling.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/CIRS/MF/simple_reproduce.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/CIRS/MF/train_new_api.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/CIRS/MF/train_new_api_old.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "baseline/A_base/CIRS/MF/used_metric.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/CIRS/evaluator/__init__.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/CIRS/evaluator/abstract_evaluator.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/CIRS/evaluator/backend/__init__.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/CIRS/evaluator/backend/cpp/uni_evaluator.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/CIRS/evaluator/backend/python/metric.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/CIRS/evaluator/backend/python/uni_evaluator.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/CIRS/evaluator/grouped_evaluator.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/CIRS/evaluator/proxy_evaluator.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/CIRS/pop_pre.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/CIRS/pop_pre_20260713.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/CIRS/pop_pre_old.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "baseline/A_base/CIRS/prepare_cirs_data.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/CIRS/prepare_cirs_data_20260713.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/CIRS/util/__init__.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/CIRS/util/configurator.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/CIRS/util/cython/__init__.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/CIRS/util/cython/random_choice.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/CIRS/util/data_generator.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/CIRS/util/data_iterator.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/CIRS/util/learner.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/CIRS/util/logger.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/CIRS/util/tool.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/DICE/prepare_dice_data.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/DICE/prepare_dice_data_20260713.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/DICE/src/__init__.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/DICE/src/app.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/DICE/src/app_old.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "baseline/A_base/DICE/src/candidate_generator.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/DICE/src/config/const.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/DICE/src/data.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/DICE/src/data_utils/__init__.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/DICE/src/data_utils/loader.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/DICE/src/data_utils/sampler.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/DICE/src/data_utils/transformer.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/DICE/src/metrics.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/DICE/src/model.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/DICE/src/recommender.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/DICE/src/tester.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/DICE/src/tester_old.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "baseline/A_base/DICE/src/trainer.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/DICE/src/trainer_old.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "baseline/A_base/DICE/src/utils.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/DICE/src/utils_old.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "baseline/A_base/DICE/viz/viz.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/GAT.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/GNN.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/Kg_Data.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/Kg_Model.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/Kg_Par.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/Kg_Par_old.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/MV_Net.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/Main.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/Mul_Data.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/Mul_Model.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/Mul_Model_old.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/Mul_Par.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/Procedure.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/Utils/TimeLogger.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/bridge_kmclr_data.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/contrast.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/contrast_old.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/prepare_kmclr_data.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/prepare_kmclr_data_20260713.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/utils.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MBGCN/dataset.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MBGCN/dataset_old.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "baseline/A_base/MBGCN/loss.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MBGCN/main.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MBGCN/main_old.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "baseline/A_base/MBGCN/metrics.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MBGCN/metrics_old.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "baseline/A_base/MBGCN/model.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MBGCN/model_old.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "baseline/A_base/MBGCN/prepare_mbgcn_data.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MBGCN/prepare_mbgcn_data_20260713.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MBGCN/sample.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MBGCN/train.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MBGCN/train_old.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "baseline/A_base/MBGCN/utils.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MGAT/DataLoad.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MGAT/DataLoad_old.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "baseline/A_base/MGAT/GraphGAT.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MGAT/GraphGAT_old.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "baseline/A_base/MGAT/Model.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MGAT/Model_old.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "baseline/A_base/MGAT/prepare_mgat_data.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MGAT/prepare_mgat_data_20260713.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MGAT/train.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MGAT/train_old.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "baseline/A_base/MGCE/Model-art/load_data.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MGCE/Model-art/model-art.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MGCE/Model-beauty/load_data.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MGCE/Model-beauty/model_beauty.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MGCE/Model-taobao/load_data.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MGCE/Model-taobao/model-taobao.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MGCE/model_suning.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MGCE/prepare_mgce_data.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MGCE/prepare_mgce_data_20260713.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MICRO/codes/Models.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MICRO/codes/main.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MICRO/codes/main_old.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "baseline/A_base/MICRO/codes/prepare_micro_data.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MICRO/codes/prepare_micro_data_20260713.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MICRO/codes/utility/batch_test.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MICRO/codes/utility/load_data.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MICRO/codes/utility/logging.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MICRO/codes/utility/metrics.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MICRO/codes/utility/norm.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MICRO/codes/utility/norm_old.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "baseline/A_base/MICRO/codes/utility/parser.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MICRO/data/build_data.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/MICRO/data/cold_start.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/data/__init__.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/data/dataset.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/data/sampler.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/data/utils.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/dataset/init.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/evaluator/__init__.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/evaluator/abstract_evaluator.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/evaluator/backend.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/evaluator/grouped_evaluator.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/evaluator/proxy_evaluator.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/log/init.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/main.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/main_old.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/models/BasicModel.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/models/SLMRec.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/models/__init__.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/prepare_slmrec_data.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/prepare_slmrec_data_20260713.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/util/__init__.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/util/configurator.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/util/configurator_old.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/util/cython/__init__.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/util/cython/arg_topk.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/util/cython/random_choice.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/util/data_generator.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/util/data_iterator.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/util/learner.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/util/logger.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/util/meter.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/util/parse.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/util/tool.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/util/util.py",
+    "reason": "Upstream baseline checkout; publication retains the study rerun implementation"
+  },
+  {
+    "source": "baseline/amazon/step1_prepare_baseline_amazon.py",
+    "reason": "Superseded Amazon recommendation workflow"
+  },
+  {
+    "source": "baseline/amazon/step3_4_evaluate_dcml_amazon.py",
+    "reason": "Superseded Amazon recommendation workflow"
+  },
+  {
+    "source": "baseline/amazon/step4_compare_all_models_amazon.py",
+    "reason": "Superseded Amazon recommendation workflow"
+  },
+  {
+    "source": "baseline/suning/step6_lambda_ablation_20250715.py",
+    "reason": "Earlier prediction protocol, superseded by the final multiseed/feature-ablation workflow"
+  },
+  {
+    "source": "baseline/suning/validate_recommender_baseline_reuse_20260713.py",
+    "reason": "Earlier prediction protocol, superseded by the final multiseed/feature-ablation workflow"
+  },
+  {
+    "source": "data_preprocessing/amazon_appliances_preprocessing/inspect_processed_data_amazon.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "data_preprocessing/suning_preprocessing/inspect_llm.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "data_preprocessing/suning_preprocessing/inspect_processed_data.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "model/M_amazon/DML/causal_baseline_comparison_0509_app.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "model/M_amazon/DML/causal_baseline_comparison_amazon_beauty_0509.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "model/M_amazon/DML/inspect_residuals_amazon_app.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "model/M_amazon/DML/inspect_residuals_amazon_beauty.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "model/M_amazon/DML/plot_1_dual_track_reversal_amazon.py",
+    "reason": "Earlier figure; final figures are in Unified_Visualization"
+  },
+  {
+    "source": "model/M_amazon/DML/plot_2_cate_moderation_amazon.py",
+    "reason": "Earlier figure; final figures are in Unified_Visualization"
+  },
+  {
+    "source": "model/M_amazon/DML/plot_3_mediation_forest_amazon.py",
+    "reason": "Earlier figure; final figures are in Unified_Visualization"
+  },
+  {
+    "source": "model/M_amazon/DML/plot_4_baselines_vs_dcml_amazon.py",
+    "reason": "Earlier figure; final figures are in Unified_Visualization"
+  },
+  {
+    "source": "model/M_amazon/DML/plot_5_gram_schmidt_heatmap_amazon.py",
+    "reason": "Earlier figure; final figures are in Unified_Visualization"
+  },
+  {
+    "source": "model/M_amazon/MCRE/check_llm_amazon_test1.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "model/M_amazon/MCRE/extract_lmm_multimodal_feature_attention_amazon_test1.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "model/M_amazon/MCRE/inspect_dataset_amazon_app.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "model/M_amazon/MCRE/inspect_dataset_amazon_beauty.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "model/M_amazon/MCRE/merge_and_check_amazon_app.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "model/M_amazon/MCRE/merge_and_check_beauty.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "model/M_suning/DML/causal_baseline_comparison_suning_0509.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "model/M_suning/DML/inspect_residuals.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "model/M_suning/DML/plot_1_dual_track_reversal.py",
+    "reason": "Earlier figure; final figures are in Unified_Visualization"
+  },
+  {
+    "source": "model/M_suning/DML/plot_1_dual_track_reversal_20260712.py",
+    "reason": "Earlier figure; final figures are in Unified_Visualization"
+  },
+  {
+    "source": "model/M_suning/DML/plot_2_cate_moderation.py",
+    "reason": "Earlier figure; final figures are in Unified_Visualization"
+  },
+  {
+    "source": "model/M_suning/DML/plot_2_cate_moderation_20260712.py",
+    "reason": "Earlier figure; final figures are in Unified_Visualization"
+  },
+  {
+    "source": "model/M_suning/DML/plot_3_mediation_forest.py",
+    "reason": "Earlier figure; final figures are in Unified_Visualization"
+  },
+  {
+    "source": "model/M_suning/DML/plot_3_mediation_forest_20260712.py",
+    "reason": "Earlier figure; final figures are in Unified_Visualization"
+  },
+  {
+    "source": "model/M_suning/DML/plot_baselines_vs_dcml.py",
+    "reason": "Earlier figure; final figures are in Unified_Visualization"
+  },
+  {
+    "source": "model/M_suning/DML/plot_baselines_vs_dcml_20260712.py",
+    "reason": "Earlier figure; final figures are in Unified_Visualization"
+  },
+  {
+    "source": "model/M_suning/DML/plot_baselines_vs_dcml_20260713.py",
+    "reason": "Earlier figure; final figures are in Unified_Visualization"
+  },
+  {
+    "source": "model/M_suning/DML/plot_gram_schmidt_heatmap.py",
+    "reason": "Earlier figure; final figures are in Unified_Visualization"
+  },
+  {
+    "source": "model/M_suning/DML/plot_gram_schmidt_heatmap_20260712.py",
+    "reason": "Earlier figure; final figures are in Unified_Visualization"
+  },
+  {
+    "source": "model/M_suning/MCRE/check_llm.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "model/M_suning/MCRE/check_llm_test6.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "model/M_suning/MCRE/extract_lmm_multimodal_feature_attention_test6.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "model/M_suning/MCRE/extract_lmm_multimodal_feature_attention_test_xd.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "model/M_suning/MCRE/inspect_dataset.py",
+    "reason": "Exploratory or superseded diagnostic"
+  },
+  {
+    "source": "old/ECDF_Validation.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "old/Purity_Heatmap_Ablation.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "old/Purity_Heatmap_Ablation2.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "old/causal_disentanglement.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "old/check_llm_3_0418.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "old/check_llm_old.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "old/check_llm_test5.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "old/dataset_builder_2.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "old/dataset_builder_3.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "old/dataset_builder_4.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "old/dataset_builder_6.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "old/dataset_builder_old.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "old/dcml_step1_nuisance_models_2.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "old/dcml_step1_nuisance_models_old.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "old/dcml_step2_causal_inference_2.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "old/extract_lmm_multimodal_feature.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "old/extract_lmm_multimodal_feature_attention_1.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "old/extract_lmm_multimodal_feature_attention_2.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "old/extract_lmm_multimodal_feature_attention_3.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "old/extract_lmm_multimodal_feature_attention_3_0418.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "old/extract_lmm_multimodal_feature_attention_amazon_1.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "old/extract_lmm_multimodal_feature_attention_test4.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "old/extract_lmm_multimodal_feature_attention_test5.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "old/inspect_residuals_2.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "old/mcre_representation_refiner.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "old/mcre_representation_refiner2.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "old/mcre_representation_refiner_3.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "old/mcre_representation_refiner_4.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "old/picture.py",
+    "reason": "Historical code, runtime cache, data, or generated output"
+  },
+  {
+    "source": "Unified_Visualization/OPE_Policy.py",
+    "reason": "Superseded by Unified_Visualization/OPE_Policy_20260713.py"
+  },
+  {
+    "source": "Unified_Visualization/OPE_Policy_20260711.py",
+    "reason": "Superseded by Unified_Visualization/OPE_Policy_20260713.py"
+  },
+  {
+    "source": "Unified_Visualization/OPE_Policy_20260712.py",
+    "reason": "Superseded by Unified_Visualization/OPE_Policy_20260713.py"
+  },
+  {
+    "source": "Unified_Visualization/plot_dml_ovb_sensitivity_20260728.py",
+    "reason": "Superseded by Unified_Visualization/plot_dml_ovb_sensitivity_20260729.py"
+  },
+  {
+    "source": "Unified_Visualization/plot_figure_11_ate_specification_sensitivity_20260723.py",
+    "reason": "Superseded by Unified_Visualization/plot_figure_11_ate_specification_sensitivity_20260728.py"
+  },
+  {
+    "source": "Unified_Visualization/visualization_common_20260720.py",
+    "reason": "Superseded by Unified_Visualization/visualization_common_20260721.py"
+  },
+  {
+    "source": "baseline/A_base/CIRS/cirs_1_prep_data.py",
+    "reason": "Superseded by baseline/A_base/CIRS/cirs_1_prep_data_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/CIRS/cirs_1_prep_data_20260713.py",
+    "reason": "Superseded by baseline/A_base/CIRS/cirs_1_prep_data_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/CIRS/cirs_1_prep_data_20260714.py",
+    "reason": "Superseded by baseline/A_base/CIRS/cirs_1_prep_data_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/CIRS/cirs_2_model_api.py",
+    "reason": "Superseded by baseline/A_base/CIRS/cirs_2_model_api_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/CIRS/cirs_2_model_api_20260714.py",
+    "reason": "Superseded by baseline/A_base/CIRS/cirs_2_model_api_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/CIRS/cirs_3_train_export.py",
+    "reason": "Superseded by baseline/A_base/CIRS/cirs_3_train_export_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/CIRS/cirs_3_train_export_20260713.py",
+    "reason": "Superseded by baseline/A_base/CIRS/cirs_3_train_export_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/CIRS/cirs_3_train_export_20260714.py",
+    "reason": "Superseded by baseline/A_base/CIRS/cirs_3_train_export_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/DICE/dice_1_prep_data.py",
+    "reason": "Superseded by baseline/A_base/DICE/dice_1_prep_data_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/DICE/dice_1_prep_data_20260713.py",
+    "reason": "Superseded by baseline/A_base/DICE/dice_1_prep_data_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/DICE/dice_1_prep_data_20260714.py",
+    "reason": "Superseded by baseline/A_base/DICE/dice_1_prep_data_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/DICE/dice_2_model_wrapper.py",
+    "reason": "Superseded by baseline/A_base/DICE/dice_2_model_wrapper_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/DICE/dice_2_model_wrapper_20260714.py",
+    "reason": "Superseded by baseline/A_base/DICE/dice_2_model_wrapper_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/DICE/dice_3_train_export.py",
+    "reason": "Superseded by baseline/A_base/DICE/dice_3_train_export_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/DICE/dice_3_train_export_20260713.py",
+    "reason": "Superseded by baseline/A_base/DICE/dice_3_train_export_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/DICE/dice_3_train_export_20260714.py",
+    "reason": "Superseded by baseline/A_base/DICE/dice_3_train_export_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/kmclr_1_build_data.py",
+    "reason": "Superseded by baseline/A_base/KMCLR/KMCLR/kmclr_1_build_data_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/kmclr_1_build_data_20260713.py",
+    "reason": "Superseded by baseline/A_base/KMCLR/KMCLR/kmclr_1_build_data_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/kmclr_1_build_data_20260714.py",
+    "reason": "Superseded by baseline/A_base/KMCLR/KMCLR/kmclr_1_build_data_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/kmclr_2_core_engine.py",
+    "reason": "Superseded by baseline/A_base/KMCLR/KMCLR/kmclr_2_core_engine_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/kmclr_2_core_engine_20260714.py",
+    "reason": "Superseded by baseline/A_base/KMCLR/KMCLR/kmclr_2_core_engine_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/kmclr_3_train_and_export.py",
+    "reason": "Superseded by baseline/A_base/KMCLR/KMCLR/kmclr_3_train_and_export_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/kmclr_3_train_and_export_20260713.py",
+    "reason": "Superseded by baseline/A_base/KMCLR/KMCLR/kmclr_3_train_and_export_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/kmclr_3_train_and_export_20260714.py",
+    "reason": "Superseded by baseline/A_base/KMCLR/KMCLR/kmclr_3_train_and_export_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MBGCN/mbgcn_1_build_graph_data.py",
+    "reason": "Superseded by baseline/A_base/MBGCN/mbgcn_1_build_graph_data_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MBGCN/mbgcn_1_build_graph_data_20260713.py",
+    "reason": "Superseded by baseline/A_base/MBGCN/mbgcn_1_build_graph_data_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MBGCN/mbgcn_1_build_graph_data_20260714.py",
+    "reason": "Superseded by baseline/A_base/MBGCN/mbgcn_1_build_graph_data_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MBGCN/mbgcn_2_core_engine.py",
+    "reason": "Superseded by baseline/A_base/MBGCN/mbgcn_2_core_engine_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MBGCN/mbgcn_2_core_engine_20260714.py",
+    "reason": "Superseded by baseline/A_base/MBGCN/mbgcn_2_core_engine_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MBGCN/mbgcn_3_train_and_export.py",
+    "reason": "Superseded by baseline/A_base/MBGCN/mbgcn_3_train_and_export_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MBGCN/mbgcn_3_train_and_export_20260713.py",
+    "reason": "Superseded by baseline/A_base/MBGCN/mbgcn_3_train_and_export_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MBGCN/mbgcn_3_train_and_export_20260714.py",
+    "reason": "Superseded by baseline/A_base/MBGCN/mbgcn_3_train_and_export_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MGAT/mgat_1_prep_data.py",
+    "reason": "Superseded by baseline/A_base/MGAT/mgat_1_prep_data_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MGAT/mgat_1_prep_data_20260713.py",
+    "reason": "Superseded by baseline/A_base/MGAT/mgat_1_prep_data_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MGAT/mgat_1_prep_data_20260714.py",
+    "reason": "Superseded by baseline/A_base/MGAT/mgat_1_prep_data_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MGAT/mgat_2_core_engine.py",
+    "reason": "Superseded by baseline/A_base/MGAT/mgat_2_core_engine_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MGAT/mgat_2_core_engine_20260714.py",
+    "reason": "Superseded by baseline/A_base/MGAT/mgat_2_core_engine_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MGAT/mgat_3_train_export.py",
+    "reason": "Superseded by baseline/A_base/MGAT/mgat_3_train_export_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MGAT/mgat_3_train_export_20260713.py",
+    "reason": "Superseded by baseline/A_base/MGAT/mgat_3_train_export_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MGAT/mgat_3_train_export_20260714.py",
+    "reason": "Superseded by baseline/A_base/MGAT/mgat_3_train_export_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MGCE/mgce_1_prep_data.py",
+    "reason": "Superseded by baseline/A_base/MGCE/mgce_1_prep_data_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MGCE/mgce_1_prep_data_20260713.py",
+    "reason": "Superseded by baseline/A_base/MGCE/mgce_1_prep_data_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MGCE/mgce_1_prep_data_20260714.py",
+    "reason": "Superseded by baseline/A_base/MGCE/mgce_1_prep_data_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MGCE/mgce_2_model_api.py",
+    "reason": "Superseded by baseline/A_base/MGCE/mgce_2_model_api_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MGCE/mgce_2_model_api_20260714.py",
+    "reason": "Superseded by baseline/A_base/MGCE/mgce_2_model_api_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MGCE/mgce_3_train_export.py",
+    "reason": "Superseded by baseline/A_base/MGCE/mgce_3_train_export_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MGCE/mgce_3_train_export_20260713.py",
+    "reason": "Superseded by baseline/A_base/MGCE/mgce_3_train_export_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MGCE/mgce_3_train_export_20260714.py",
+    "reason": "Superseded by baseline/A_base/MGCE/mgce_3_train_export_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MICRO/micro_1_prep_data.py",
+    "reason": "Superseded by baseline/A_base/MICRO/micro_1_prep_data_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MICRO/micro_1_prep_data_20260713.py",
+    "reason": "Superseded by baseline/A_base/MICRO/micro_1_prep_data_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MICRO/micro_1_prep_data_20260714.py",
+    "reason": "Superseded by baseline/A_base/MICRO/micro_1_prep_data_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MICRO/micro_2_core_engine.py",
+    "reason": "Superseded by baseline/A_base/MICRO/micro_2_core_engine_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MICRO/micro_2_core_engine_20260714.py",
+    "reason": "Superseded by baseline/A_base/MICRO/micro_2_core_engine_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MICRO/micro_3_train_export.py",
+    "reason": "Superseded by baseline/A_base/MICRO/micro_3_train_export_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MICRO/micro_3_train_export_20260713.py",
+    "reason": "Superseded by baseline/A_base/MICRO/micro_3_train_export_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/MICRO/micro_3_train_export_20260714.py",
+    "reason": "Superseded by baseline/A_base/MICRO/micro_3_train_export_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/slmrec_1_prep_data.py",
+    "reason": "Superseded by baseline/A_base/SLMRec/slmrec_1_prep_data_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/slmrec_1_prep_data_20260713.py",
+    "reason": "Superseded by baseline/A_base/SLMRec/slmrec_1_prep_data_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/slmrec_1_prep_data_20260714.py",
+    "reason": "Superseded by baseline/A_base/SLMRec/slmrec_1_prep_data_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/slmrec_2_model_wrapper.py",
+    "reason": "Superseded by baseline/A_base/SLMRec/slmrec_2_model_wrapper_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/slmrec_2_model_wrapper_20260714.py",
+    "reason": "Superseded by baseline/A_base/SLMRec/slmrec_2_model_wrapper_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/slmrec_3_train_export.py",
+    "reason": "Superseded by baseline/A_base/SLMRec/slmrec_3_train_export_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/slmrec_3_train_export_20260713.py",
+    "reason": "Superseded by baseline/A_base/SLMRec/slmrec_3_train_export_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/slmrec_3_train_export_20260714.py",
+    "reason": "Superseded by baseline/A_base/SLMRec/slmrec_3_train_export_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/baseline_utils_20250715.py",
+    "reason": "Superseded by baseline/A_base/baseline_utils_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/baseline_utils_20260713.py",
+    "reason": "Superseded by baseline/A_base/baseline_utils_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/baseline_utils_20260714.py",
+    "reason": "Superseded by baseline/A_base/baseline_utils_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/run_suning_baselines_20260713.py",
+    "reason": "Superseded by baseline/A_base/run_suning_baselines_20260717.py"
+  },
+  {
+    "source": "baseline/A_base/run_suning_baselines_20260714.py",
+    "reason": "Superseded by baseline/A_base/run_suning_baselines_20260717.py"
+  },
+  {
+    "source": "baseline/amazon/run_amazon_prediction_multiseed_app_20260718.py",
+    "reason": "Superseded by baseline/amazon/run_amazon_prediction_multiseed_app_20260719.py"
+  },
+  {
+    "source": "baseline/amazon/run_amazon_prediction_multiseed_beauty_20260718.py",
+    "reason": "Superseded by baseline/amazon/run_amazon_prediction_multiseed_beauty_20260719.py"
+  },
+  {
+    "source": "baseline/suning/dcml_recommender_core_20250715.py",
+    "reason": "Superseded by baseline/suning/dcml_recommender_core_20260717.py"
+  },
+  {
+    "source": "baseline/suning/dcml_recommender_core_20260714.py",
+    "reason": "Superseded by baseline/suning/dcml_recommender_core_20260717.py"
+  },
+  {
+    "source": "baseline/suning/run_suning_multiseed_20250715.py",
+    "reason": "Superseded by baseline/suning/run_suning_multiseed_20260719.py"
+  },
+  {
+    "source": "baseline/suning/run_suning_multiseed_20260714.py",
+    "reason": "Superseded by baseline/suning/run_suning_multiseed_20260719.py"
+  },
+  {
+    "source": "baseline/suning/run_suning_multiseed_20260717.py",
+    "reason": "Superseded by baseline/suning/run_suning_multiseed_20260719.py"
+  },
+  {
+    "source": "baseline/suning/step1_prepare_baseline_data.py",
+    "reason": "Superseded by baseline/suning/step1_prepare_baseline_data_20260717.py"
+  },
+  {
+    "source": "baseline/suning/step1_prepare_baseline_data_20260712.py",
+    "reason": "Superseded by baseline/suning/step1_prepare_baseline_data_20260717.py"
+  },
+  {
+    "source": "baseline/suning/step1_prepare_baseline_data_20260713.py",
+    "reason": "Superseded by baseline/suning/step1_prepare_baseline_data_20260717.py"
+  },
+  {
+    "source": "baseline/suning/step1_prepare_baseline_data_20260714.py",
+    "reason": "Superseded by baseline/suning/step1_prepare_baseline_data_20260717.py"
+  },
+  {
+    "source": "baseline/suning/step2_train_dcml_recommender_20250715.py",
+    "reason": "Superseded by baseline/suning/step2_train_dcml_recommender_20260717.py"
+  },
+  {
+    "source": "baseline/suning/step2_train_dcml_recommender_20260714.py",
+    "reason": "Superseded by baseline/suning/step2_train_dcml_recommender_20260717.py"
+  },
+  {
+    "source": "baseline/suning/step3_4_evaluate_dcml.py",
+    "reason": "Superseded by baseline/suning/step3_4_evaluate_dcml_20260717.py"
+  },
+  {
+    "source": "baseline/suning/step3_4_evaluate_dcml_20250715.py",
+    "reason": "Superseded by baseline/suning/step3_4_evaluate_dcml_20260717.py"
+  },
+  {
+    "source": "baseline/suning/step3_4_evaluate_dcml_20260712.py",
+    "reason": "Superseded by baseline/suning/step3_4_evaluate_dcml_20260717.py"
+  },
+  {
+    "source": "baseline/suning/step3_4_evaluate_dcml_20260713.py",
+    "reason": "Superseded by baseline/suning/step3_4_evaluate_dcml_20260717.py"
+  },
+  {
+    "source": "baseline/suning/step3_4_evaluate_dcml_20260714.py",
+    "reason": "Superseded by baseline/suning/step3_4_evaluate_dcml_20260717.py"
+  },
+  {
+    "source": "baseline/suning/step4_compare_all_models.py",
+    "reason": "Superseded by baseline/suning/step4_compare_all_models_20260717.py"
+  },
+  {
+    "source": "baseline/suning/step4_compare_all_models_20250715.py",
+    "reason": "Superseded by baseline/suning/step4_compare_all_models_20260717.py"
+  },
+  {
+    "source": "baseline/suning/step4_compare_all_models_20260712.py",
+    "reason": "Superseded by baseline/suning/step4_compare_all_models_20260717.py"
+  },
+  {
+    "source": "baseline/suning/step4_compare_all_models_20260713.py",
+    "reason": "Superseded by baseline/suning/step4_compare_all_models_20260717.py"
+  },
+  {
+    "source": "baseline/suning/step4_compare_all_models_20260714.py",
+    "reason": "Superseded by baseline/suning/step4_compare_all_models_20260717.py"
+  },
+  {
+    "source": "baseline/suning/step5_candidate_sensitivity_20250715.py",
+    "reason": "Superseded by baseline/suning/step5_candidate_sensitivity_20260717.py"
+  },
+  {
+    "source": "baseline/suning/step5_candidate_sensitivity_20260714.py",
+    "reason": "Superseded by baseline/suning/step5_candidate_sensitivity_20260717.py"
+  },
+  {
+    "source": "data_preprocessing/amazon_appliances_preprocessing/build_y_funnel_amazon.py",
+    "reason": "Superseded by data_preprocessing/amazon_appliances_preprocessing/build_y_funnel_amazon_20260713.py"
+  },
+  {
+    "source": "data_preprocessing/amazon_appliances_preprocessing/build_y_funnel_amazon_20260711.py",
+    "reason": "Superseded by data_preprocessing/amazon_appliances_preprocessing/build_y_funnel_amazon_20260713.py"
+  },
+  {
+    "source": "data_preprocessing/amazon_appliances_preprocessing/process_confounders.py",
+    "reason": "Superseded by data_preprocessing/amazon_appliances_preprocessing/process_confounders_20260713.py"
+  },
+  {
+    "source": "data_preprocessing/amazon_appliances_preprocessing/process_item_reviews_amazon.py",
+    "reason": "Superseded by data_preprocessing/amazon_appliances_preprocessing/process_item_reviews_amazon_20260713.py"
+  },
+  {
+    "source": "data_preprocessing/suning_preprocessing/build_y_funnel.py",
+    "reason": "Superseded by data_preprocessing/suning_preprocessing/build_y_funnel_20260712.py"
+  },
+  {
+    "source": "data_preprocessing/suning_preprocessing/build_y_funnel_20260711.py",
+    "reason": "Superseded by data_preprocessing/suning_preprocessing/build_y_funnel_20260712.py"
+  },
+  {
+    "source": "dcml_utils_20260711.py",
+    "reason": "Superseded by dcml_utils_20260713.py"
+  },
+  {
+    "source": "dcml_utils_20260712.py",
+    "reason": "Superseded by dcml_utils_20260713.py"
+  },
+  {
+    "source": "enhance/run_cross_mllm_measurement_audit_20260730.py",
+    "reason": "Superseded by enhance/run_cross_mllm_measurement_audit_20260801.py"
+  },
+  {
+    "source": "model/M_amazon/DML/causal_baseline_comparison_amazon_app.py",
+    "reason": "Superseded by model/M_amazon/DML/causal_baseline_comparison_amazon_app_20260719.py"
+  },
+  {
+    "source": "model/M_amazon/DML/causal_baseline_comparison_amazon_beauty.py",
+    "reason": "Superseded by model/M_amazon/DML/causal_baseline_comparison_amazon_beauty_20260719.py"
+  },
+  {
+    "source": "model/M_amazon/DML/dcml_step3_mediation_amazon_app.py",
+    "reason": "Superseded by model/M_amazon/DML/dcml_step3_mediation_amazon_app_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/dcml_step3_mediation_amazon_app_20260713.py",
+    "reason": "Superseded by model/M_amazon/DML/dcml_step3_mediation_amazon_app_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/dcml_step3_mediation_amazon_app_20260715.py",
+    "reason": "Superseded by model/M_amazon/DML/dcml_step3_mediation_amazon_app_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/dcml_step3_mediation_amazon_beauty.py",
+    "reason": "Superseded by model/M_amazon/DML/dcml_step3_mediation_amazon_beauty_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/dcml_step3_mediation_amazon_beauty_20260713.py",
+    "reason": "Superseded by model/M_amazon/DML/dcml_step3_mediation_amazon_beauty_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/dcml_step3_mediation_amazon_beauty_20260715.py",
+    "reason": "Superseded by model/M_amazon/DML/dcml_step3_mediation_amazon_beauty_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/dml_step1_nuisance_amazon_app.py",
+    "reason": "Superseded by model/M_amazon/DML/dml_step1_nuisance_amazon_app_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/dml_step1_nuisance_amazon_app_20260711.py",
+    "reason": "Superseded by model/M_amazon/DML/dml_step1_nuisance_amazon_app_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/dml_step1_nuisance_amazon_app_20260713.py",
+    "reason": "Superseded by model/M_amazon/DML/dml_step1_nuisance_amazon_app_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/dml_step1_nuisance_amazon_app_20260715.py",
+    "reason": "Superseded by model/M_amazon/DML/dml_step1_nuisance_amazon_app_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/dml_step1_nuisance_amazon_beauty.py",
+    "reason": "Superseded by model/M_amazon/DML/dml_step1_nuisance_amazon_beauty_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/dml_step1_nuisance_amazon_beauty_20260711.py",
+    "reason": "Superseded by model/M_amazon/DML/dml_step1_nuisance_amazon_beauty_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/dml_step1_nuisance_amazon_beauty_20260713.py",
+    "reason": "Superseded by model/M_amazon/DML/dml_step1_nuisance_amazon_beauty_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/dml_step1_nuisance_amazon_beauty_20260715.py",
+    "reason": "Superseded by model/M_amazon/DML/dml_step1_nuisance_amazon_beauty_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/dml_step2_causal_inference_amazon_app.py",
+    "reason": "Superseded by model/M_amazon/DML/dml_step2_causal_inference_amazon_app_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/dml_step2_causal_inference_amazon_app_20260711.py",
+    "reason": "Superseded by model/M_amazon/DML/dml_step2_causal_inference_amazon_app_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/dml_step2_causal_inference_amazon_app_20260713.py",
+    "reason": "Superseded by model/M_amazon/DML/dml_step2_causal_inference_amazon_app_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/dml_step2_causal_inference_amazon_app_20260715.py",
+    "reason": "Superseded by model/M_amazon/DML/dml_step2_causal_inference_amazon_app_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/dml_step2_causal_inference_amazon_beauty.py",
+    "reason": "Superseded by model/M_amazon/DML/dml_step2_causal_inference_amazon_beauty_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/dml_step2_causal_inference_amazon_beauty_20260711.py",
+    "reason": "Superseded by model/M_amazon/DML/dml_step2_causal_inference_amazon_beauty_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/dml_step2_causal_inference_amazon_beauty_20260713.py",
+    "reason": "Superseded by model/M_amazon/DML/dml_step2_causal_inference_amazon_beauty_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/dml_step2_causal_inference_amazon_beauty_20260715.py",
+    "reason": "Superseded by model/M_amazon/DML/dml_step2_causal_inference_amazon_beauty_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/h3_moderation_interaction_amazon_app_20260717.py",
+    "reason": "Superseded by model/M_amazon/DML/h3_moderation_interaction_amazon_app_20260719.py"
+  },
+  {
+    "source": "model/M_amazon/DML/h3_moderation_interaction_amazon_beauty_20260717.py",
+    "reason": "Superseded by model/M_amazon/DML/h3_moderation_interaction_amazon_beauty_20260719.py"
+  },
+  {
+    "source": "model/M_amazon/DML/placebo_test_amazon_app.py",
+    "reason": "Superseded by model/M_amazon/DML/placebo_test_amazon_app_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/placebo_test_amazon_app_20260713.py",
+    "reason": "Superseded by model/M_amazon/DML/placebo_test_amazon_app_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/placebo_test_amazon_app_20260715.py",
+    "reason": "Superseded by model/M_amazon/DML/placebo_test_amazon_app_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/placebo_test_amazon_beauty.py",
+    "reason": "Superseded by model/M_amazon/DML/placebo_test_amazon_beauty_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/placebo_test_amazon_beauty_20260713.py",
+    "reason": "Superseded by model/M_amazon/DML/placebo_test_amazon_beauty_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/placebo_test_amazon_beauty_20260715.py",
+    "reason": "Superseded by model/M_amazon/DML/placebo_test_amazon_beauty_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/robustness_value_amazon_app.py",
+    "reason": "Superseded by model/M_amazon/DML/robustness_value_amazon_app_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/robustness_value_amazon_app_20260713.py",
+    "reason": "Superseded by model/M_amazon/DML/robustness_value_amazon_app_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/robustness_value_amazon_app_20260715.py",
+    "reason": "Superseded by model/M_amazon/DML/robustness_value_amazon_app_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/robustness_value_amazon_beauty.py",
+    "reason": "Superseded by model/M_amazon/DML/robustness_value_amazon_beauty_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/robustness_value_amazon_beauty_20260713.py",
+    "reason": "Superseded by model/M_amazon/DML/robustness_value_amazon_beauty_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/DML/robustness_value_amazon_beauty_20260715.py",
+    "reason": "Superseded by model/M_amazon/DML/robustness_value_amazon_beauty_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/MCRE/dataset_builder_amazon_app.py",
+    "reason": "Superseded by model/M_amazon/MCRE/dataset_builder_amazon_app_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/MCRE/dataset_builder_amazon_app_20260711.py",
+    "reason": "Superseded by model/M_amazon/MCRE/dataset_builder_amazon_app_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/MCRE/dataset_builder_amazon_app_20260713.py",
+    "reason": "Superseded by model/M_amazon/MCRE/dataset_builder_amazon_app_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/MCRE/dataset_builder_amazon_app_20260715.py",
+    "reason": "Superseded by model/M_amazon/MCRE/dataset_builder_amazon_app_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/MCRE/dataset_builder_amazon_beauty.py",
+    "reason": "Superseded by model/M_amazon/MCRE/dataset_builder_amazon_beauty_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/MCRE/dataset_builder_amazon_beauty_20260711.py",
+    "reason": "Superseded by model/M_amazon/MCRE/dataset_builder_amazon_beauty_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/MCRE/dataset_builder_amazon_beauty_20260713.py",
+    "reason": "Superseded by model/M_amazon/MCRE/dataset_builder_amazon_beauty_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/MCRE/dataset_builder_amazon_beauty_20260715.py",
+    "reason": "Superseded by model/M_amazon/MCRE/dataset_builder_amazon_beauty_20260717.py"
+  },
+  {
+    "source": "model/M_amazon/MCRE/extract_lmm_multimodal_feature_attention_amazon.py",
+    "reason": "Superseded by model/M_amazon/MCRE/extract_lmm_multimodal_feature_attention_amazon_20260713.py"
+  },
+  {
+    "source": "model/M_suning/DML/causal_baseline_comparison.py",
+    "reason": "Superseded by model/M_suning/DML/causal_baseline_comparison_20260719.py"
+  },
+  {
+    "source": "model/M_suning/DML/causal_baseline_comparison_20260712.py",
+    "reason": "Superseded by model/M_suning/DML/causal_baseline_comparison_20260719.py"
+  },
+  {
+    "source": "model/M_suning/DML/causal_baseline_comparison_20260713.py",
+    "reason": "Superseded by model/M_suning/DML/causal_baseline_comparison_20260719.py"
+  },
+  {
+    "source": "model/M_suning/DML/causal_baseline_comparison_20260717.py",
+    "reason": "Superseded by model/M_suning/DML/causal_baseline_comparison_20260719.py"
+  },
+  {
+    "source": "model/M_suning/DML/dcml_step1_nuisance_models.py",
+    "reason": "Superseded by model/M_suning/DML/dcml_step1_nuisance_models_20260717.py"
+  },
+  {
+    "source": "model/M_suning/DML/dcml_step1_nuisance_models_20260711.py",
+    "reason": "Superseded by model/M_suning/DML/dcml_step1_nuisance_models_20260717.py"
+  },
+  {
+    "source": "model/M_suning/DML/dcml_step1_nuisance_models_20260712.py",
+    "reason": "Superseded by model/M_suning/DML/dcml_step1_nuisance_models_20260717.py"
+  },
+  {
+    "source": "model/M_suning/DML/dcml_step2_causal_inference.py",
+    "reason": "Superseded by model/M_suning/DML/dcml_step2_causal_inference_20260717.py"
+  },
+  {
+    "source": "model/M_suning/DML/dcml_step2_causal_inference_20260711.py",
+    "reason": "Superseded by model/M_suning/DML/dcml_step2_causal_inference_20260717.py"
+  },
+  {
+    "source": "model/M_suning/DML/dcml_step2_causal_inference_20260712.py",
+    "reason": "Superseded by model/M_suning/DML/dcml_step2_causal_inference_20260717.py"
+  },
+  {
+    "source": "model/M_suning/DML/dcml_step2_causal_inference_20260713.py",
+    "reason": "Superseded by model/M_suning/DML/dcml_step2_causal_inference_20260717.py"
+  },
+  {
+    "source": "model/M_suning/DML/dcml_step3_mediation.py",
+    "reason": "Superseded by model/M_suning/DML/dcml_step3_mediation_20260717.py"
+  },
+  {
+    "source": "model/M_suning/DML/dcml_step3_mediation_20260712.py",
+    "reason": "Superseded by model/M_suning/DML/dcml_step3_mediation_20260717.py"
+  },
+  {
+    "source": "model/M_suning/DML/dcml_step3_mediation_20260713.py",
+    "reason": "Superseded by model/M_suning/DML/dcml_step3_mediation_20260717.py"
+  },
+  {
+    "source": "model/M_suning/DML/h3_moderation_interaction_20260717.py",
+    "reason": "Superseded by model/M_suning/DML/h3_moderation_interaction_20260719.py"
+  },
+  {
+    "source": "model/M_suning/DML/placebo_test.py",
+    "reason": "Superseded by model/M_suning/DML/placebo_test_20260717.py"
+  },
+  {
+    "source": "model/M_suning/DML/placebo_test_20260712.py",
+    "reason": "Superseded by model/M_suning/DML/placebo_test_20260717.py"
+  },
+  {
+    "source": "model/M_suning/DML/placebo_test_20260713.py",
+    "reason": "Superseded by model/M_suning/DML/placebo_test_20260717.py"
+  },
+  {
+    "source": "model/M_suning/DML/robustness_value.py",
+    "reason": "Superseded by model/M_suning/DML/robustness_value_20260717.py"
+  },
+  {
+    "source": "model/M_suning/DML/robustness_value_20260712.py",
+    "reason": "Superseded by model/M_suning/DML/robustness_value_20260717.py"
+  },
+  {
+    "source": "model/M_suning/DML/robustness_value_20260713.py",
+    "reason": "Superseded by model/M_suning/DML/robustness_value_20260717.py"
+  },
+  {
+    "source": "model/M_suning/MCRE/dataset_builder.py",
+    "reason": "Superseded by model/M_suning/MCRE/dataset_builder_20260712.py"
+  },
+  {
+    "source": "model/M_suning/MCRE/dataset_builder_20260711.py",
+    "reason": "Superseded by model/M_suning/MCRE/dataset_builder_20260712.py"
+  }
+]

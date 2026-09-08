@@ -1,0 +1,972 @@
+[
+  {
+    "source": "Unified_Visualization/OPE_Policy_20260713.py",
+    "release": "causal/Unified_Visualization/OPE_Policy.py",
+    "source_sha256": "07626ff343d08d798cfa8cebc9dc004d22fa3554b087e7c49676539d185e4255"
+  },
+  {
+    "source": "Unified_Visualization/plot_claim_aligned_robustness_20260729_2.py",
+    "release": "causal/Unified_Visualization/plot_claim_aligned_robustness.py",
+    "source_sha256": "c415792323f6ad9bdd0695a3e02da224b1c2e924addb3671e21ca5e3b83ad05e"
+  },
+  {
+    "source": "Unified_Visualization/plot_dml_ovb_sensitivity_20260729.py",
+    "release": "causal/Unified_Visualization/plot_dml_ovb_sensitivity.py",
+    "source_sha256": "ed6460269f589f7899ff2c285db012b046fb1a02d81844e266fb8d8c9ea7b975"
+  },
+  {
+    "source": "Unified_Visualization/plot_figure_10_causal_baseline_comparison_20260727.py",
+    "release": "causal/Unified_Visualization/plot_figure_10_causal_baseline_comparison.py",
+    "source_sha256": "8cfd106244d4f68e8338e45712ac020d5b689f5c62825f145a12020cf6e4c308"
+  },
+  {
+    "source": "Unified_Visualization/plot_figure_10_prediction_performance_20260721.py",
+    "release": "causal/Unified_Visualization/plot_figure_10_prediction_performance.py",
+    "source_sha256": "3367de59e0d3b49fc3b0528218a3e2102d33fd110cdb984ce137e521303ec8c5"
+  },
+  {
+    "source": "Unified_Visualization/plot_figure_11_ate_specification_sensitivity_20260728.py",
+    "release": "causal/Unified_Visualization/plot_figure_11_ate_specification_sensitivity.py",
+    "source_sha256": "ed723f67992a8dff42ed024643bc47e7a47d9cba963e3720e41241229075f4f6"
+  },
+  {
+    "source": "Unified_Visualization/plot_figure_11_gs_sensitivity_20260721.py",
+    "release": "causal/Unified_Visualization/plot_figure_11_gs_sensitivity.py",
+    "source_sha256": "72080509d76738ad4618e66f203e415db76ee85319a9ed2c6bed0784f249bb2b"
+  },
+  {
+    "source": "Unified_Visualization/plot_figure_5_mcre_measurement_graph_20260723.py",
+    "release": "causal/Unified_Visualization/plot_figure_5_mcre_measurement_graph.py",
+    "source_sha256": "307eb55de7174918b7392d7372f30c25ef245c0800ad42d0e9acf03a3a90f5c5"
+  },
+  {
+    "source": "Unified_Visualization/plot_figure_6_identification_diagnostics_20260721.py",
+    "release": "causal/Unified_Visualization/plot_figure_6_identification_diagnostics.py",
+    "source_sha256": "ce5bbe7eb4527bf3ffe0ddd87eb6e0d5b5ade1e7fd0fce55a07e0563dbbbfe94"
+  },
+  {
+    "source": "Unified_Visualization/plot_figure_6_rq1_cross_path_orthogonalization_20260722.py",
+    "release": "causal/Unified_Visualization/plot_figure_6_rq1_cross_path_orthogonalization.py",
+    "source_sha256": "48ada915812164c19114cb9aceffe7231f369c208aefb73b4c51d9c33e223d1f"
+  },
+  {
+    "source": "Unified_Visualization/plot_figure_6_rq1_dual_specification_heatmap_20260722.py",
+    "release": "causal/Unified_Visualization/plot_figure_6_rq1_dual_specification_heatmap.py",
+    "source_sha256": "27bdde14b04678a95ffc518cdec085a63060cc8b12ff05c62c056eb53225ee39"
+  },
+  {
+    "source": "Unified_Visualization/plot_figure_6_rq1_semantic_support_20260722.py",
+    "release": "causal/Unified_Visualization/plot_figure_6_rq1_semantic_support.py",
+    "source_sha256": "e381cb8310ba19d13e7a06b45238b4d4598a3efeee62a0c952b60bca9e6f7493"
+  },
+  {
+    "source": "Unified_Visualization/plot_figure_7_rq1_gs_orthogonalization_20260722.py",
+    "release": "causal/Unified_Visualization/plot_figure_7_rq1_gs_orthogonalization.py",
+    "source_sha256": "60034a28dc655b861f6f800455712b59dc78c459f73d286bdd0419ccea191f09"
+  },
+  {
+    "source": "Unified_Visualization/plot_figure_7_rq2_dual_specification_effects_20260723.py",
+    "release": "causal/Unified_Visualization/plot_figure_7_rq2_dual_specification_effects.py",
+    "source_sha256": "a3cdb9b07f5c4e6af9c03742e8b5ae07413710ee4413c5e335324c3885b23fe0"
+  },
+  {
+    "source": "Unified_Visualization/plot_figure_7_rq2_suning_reversals_20260723.py",
+    "release": "causal/Unified_Visualization/plot_figure_7_rq2_suning_reversals.py",
+    "source_sha256": "fdbe4acc82f9acb076b2c002ee18791acac3d0e19714fc78a424806463181fe3"
+  },
+  {
+    "source": "Unified_Visualization/plot_figure_7_stage_specific_effects_20260721.py",
+    "release": "causal/Unified_Visualization/plot_figure_7_stage_specific_effects.py",
+    "source_sha256": "1fcc3ea36b824377d8f5edde8070c3ac9f4eb5a98e5528072e928907d7b58a8a"
+  },
+  {
+    "source": "Unified_Visualization/plot_figure_8_rq2_dual_specification_iqr_effects_20260723.py",
+    "release": "causal/Unified_Visualization/plot_figure_8_rq2_dual_specification_iqr_effects.py",
+    "source_sha256": "e565060e54003e93a14f6d2a166aa74698cf0c0fe69d8bcaccc423e7b0c5202b"
+  },
+  {
+    "source": "Unified_Visualization/plot_figure_8_suning_iqr_scaled_effects_20260721.py",
+    "release": "causal/Unified_Visualization/plot_figure_8_suning_iqr_scaled_effects.py",
+    "source_sha256": "b1a90b5122810eca8865c4056f601bd45b486e2890be9f542fde0589c1650c26"
+  },
+  {
+    "source": "Unified_Visualization/plot_figure_9_cate_heterogeneity_20260723.py",
+    "release": "causal/Unified_Visualization/plot_figure_9_cate_heterogeneity.py",
+    "source_sha256": "c8e7e6e2792c9100ea23d2017e970215bfcdf690c173c7b515dcd5b72de50de3"
+  },
+  {
+    "source": "Unified_Visualization/plot_figure_9_effect_modification_20260721.py",
+    "release": "causal/Unified_Visualization/plot_figure_9_effect_modification.py",
+    "source_sha256": "82fb772071885d6834969d242d86a536594c0f99abdc3eb95c13991099533ca5"
+  },
+  {
+    "source": "Unified_Visualization/prepare_and_evaluate_mcre_human_validation_20260728.py",
+    "release": "causal/Unified_Visualization/prepare_and_evaluate_mcre_human_validation.py",
+    "source_sha256": "bfbb9dfb03c529d4b9b8895ad68519ce6a034a35ecd3b220b75953cfbe300b44"
+  },
+  {
+    "source": "Unified_Visualization/statistic.py",
+    "release": "causal/Unified_Visualization/statistic.py",
+    "source_sha256": "48acaeabfba58b8f559d00f8837c49366a23ffa46f06b7158d0e8d2eabe59b6b"
+  },
+  {
+    "source": "Unified_Visualization/visualization_common_20260721.py",
+    "release": "causal/Unified_Visualization/visualization_common.py",
+    "source_sha256": "73aa2080be3c8c3c17c89931a695f957e614c7cbaad5164094ce7accd75db7bc"
+  },
+  {
+    "source": "amazon_placebo_20260717.py",
+    "release": "causal/amazon_placebo.py",
+    "source_sha256": "7b5fcd26ad9f0794dbe2aff00f6ba568da297b9d33d01db50ca85bc80ab25077"
+  },
+  {
+    "source": "baseline/A_base/CIRS/cirs_1_prep_data_20260717.py",
+    "release": "causal/baseline/A_base/CIRS/cirs_1_prep_data.py",
+    "source_sha256": "8124cb134b2f055ec3998b94b6020480e90e6c12ca7fc520a91349e381386043"
+  },
+  {
+    "source": "baseline/A_base/CIRS/cirs_2_model_api_20260717.py",
+    "release": "causal/baseline/A_base/CIRS/cirs_2_model_api.py",
+    "source_sha256": "2ed71e586295a759bb2c586022fcbdc446fbcc6267b54b3a87bc6f12b884ccb7"
+  },
+  {
+    "source": "baseline/A_base/CIRS/cirs_3_train_export_20260717.py",
+    "release": "causal/baseline/A_base/CIRS/cirs_3_train_export.py",
+    "source_sha256": "1ee196a7bb87b6f0ea2f2ac84960a15771aa68951ccae19e5d035a0dbf8edec1"
+  },
+  {
+    "source": "baseline/A_base/DICE/dice_1_prep_data_20260717.py",
+    "release": "causal/baseline/A_base/DICE/dice_1_prep_data.py",
+    "source_sha256": "dec15600b5a2489f149f3935b0630cdcffd9ccbcaac1a8c8756ca938fe6d15b8"
+  },
+  {
+    "source": "baseline/A_base/DICE/dice_2_model_wrapper_20260717.py",
+    "release": "causal/baseline/A_base/DICE/dice_2_model_wrapper.py",
+    "source_sha256": "5309ccfdd53498a539a630bc9ab1066059c3d9ec4997bf9ed63d12c205c01c29"
+  },
+  {
+    "source": "baseline/A_base/DICE/dice_3_train_export_20260717.py",
+    "release": "causal/baseline/A_base/DICE/dice_3_train_export.py",
+    "source_sha256": "f8d04747ce207a11693aa61e25517b6f74fe63b8fe5341325fc83702c9b00d95"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/kmclr_1_build_data_20260717.py",
+    "release": "causal/baseline/A_base/KMCLR/KMCLR/kmclr_1_build_data.py",
+    "source_sha256": "03e029f4f58c89c6a438b53ebbce2dbd2a65a7705d316ce8681c08519878a394"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/kmclr_2_core_engine_20260717.py",
+    "release": "causal/baseline/A_base/KMCLR/KMCLR/kmclr_2_core_engine.py",
+    "source_sha256": "478c997fb7e5e6bb5acc47222b461f66ea0f6927f13580fd271445b1521d2494"
+  },
+  {
+    "source": "baseline/A_base/KMCLR/KMCLR/kmclr_3_train_and_export_20260717.py",
+    "release": "causal/baseline/A_base/KMCLR/KMCLR/kmclr_3_train_and_export.py",
+    "source_sha256": "fce2733f0891122bc328e29ac42dfeff1f3333950623443f3cd1218377b4d662"
+  },
+  {
+    "source": "baseline/A_base/MBGCN/mbgcn_1_build_graph_data_20260717.py",
+    "release": "causal/baseline/A_base/MBGCN/mbgcn_1_build_graph_data.py",
+    "source_sha256": "5769d2b0cc4d6b3cbbc71acd1543d1af7b5a9b5d01efff3bbecbe9f12c4f2802"
+  },
+  {
+    "source": "baseline/A_base/MBGCN/mbgcn_2_core_engine_20260717.py",
+    "release": "causal/baseline/A_base/MBGCN/mbgcn_2_core_engine.py",
+    "source_sha256": "0af35c86a4b1296bbe9f323a15360de02d028b93c46e6ba38326c65ee578130c"
+  },
+  {
+    "source": "baseline/A_base/MBGCN/mbgcn_3_train_and_export_20260717.py",
+    "release": "causal/baseline/A_base/MBGCN/mbgcn_3_train_and_export.py",
+    "source_sha256": "53eb3cc376d19f610a0a219808756c6137e8058a8a8ba28ec467da0b8cf1b598"
+  },
+  {
+    "source": "baseline/A_base/MGAT/mgat_1_prep_data_20260717.py",
+    "release": "causal/baseline/A_base/MGAT/mgat_1_prep_data.py",
+    "source_sha256": "3a610ac52fbcb7d89a066bd6427e2c6b9f79cbe957cc3d72d6fbc661897f4470"
+  },
+  {
+    "source": "baseline/A_base/MGAT/mgat_2_core_engine_20260717.py",
+    "release": "causal/baseline/A_base/MGAT/mgat_2_core_engine.py",
+    "source_sha256": "714d82108f5a2f12e1e11194dafe261626e2d44e5c86278744359e35ef7e235b"
+  },
+  {
+    "source": "baseline/A_base/MGAT/mgat_3_train_export_20260717.py",
+    "release": "causal/baseline/A_base/MGAT/mgat_3_train_export.py",
+    "source_sha256": "49013e40a1c539aa43a13cead848308c16290de2b07ef668ae1d72874388db6a"
+  },
+  {
+    "source": "baseline/A_base/MGCE/mgce_1_prep_data_20260717.py",
+    "release": "causal/baseline/A_base/MGCE/mgce_1_prep_data.py",
+    "source_sha256": "8708b60352dfa3ec08f0f360598ad85ed203c97179faa73c83a1750b083f6a31"
+  },
+  {
+    "source": "baseline/A_base/MGCE/mgce_2_model_api_20260717.py",
+    "release": "causal/baseline/A_base/MGCE/mgce_2_model_api.py",
+    "source_sha256": "4d508ff191b3edb0ae6da29127454bd51aabe9e4ac3e662bf6741e8c24b87754"
+  },
+  {
+    "source": "baseline/A_base/MGCE/mgce_3_train_export_20260717.py",
+    "release": "causal/baseline/A_base/MGCE/mgce_3_train_export.py",
+    "source_sha256": "7b46091f6d6cb68bf2716b5224798b500fd9e6f5b413def5d6fae2b86f8b088b"
+  },
+  {
+    "source": "baseline/A_base/MICRO/micro_1_prep_data_20260717.py",
+    "release": "causal/baseline/A_base/MICRO/micro_1_prep_data.py",
+    "source_sha256": "f652911d94a4a1c9622d5f9ea70601a503a3575bc3f564ffef09cd1256d287fa"
+  },
+  {
+    "source": "baseline/A_base/MICRO/micro_2_core_engine_20260717.py",
+    "release": "causal/baseline/A_base/MICRO/micro_2_core_engine.py",
+    "source_sha256": "fb3850a2e5f8f7786c9fc6765705cd592db3bdadfcabcc6ed07af82a07a6c86a"
+  },
+  {
+    "source": "baseline/A_base/MICRO/micro_3_train_export_20260717.py",
+    "release": "causal/baseline/A_base/MICRO/micro_3_train_export.py",
+    "source_sha256": "f552a99ece5ace11c7dda688238e1412aba16190d61f9ba998fd7a317317c07d"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/slmrec_1_prep_data_20260717.py",
+    "release": "causal/baseline/A_base/SLMRec/slmrec_1_prep_data.py",
+    "source_sha256": "7d949629ee6b6ff8f4b8b8f482264bd5af7c0fb015b0a7d3b8287dffcb980695"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/slmrec_2_model_wrapper_20260717.py",
+    "release": "causal/baseline/A_base/SLMRec/slmrec_2_model_wrapper.py",
+    "source_sha256": "5abf5a15c9ccacc6056c13933d3346a42378fd3e53a41082fe030738941ff4d8"
+  },
+  {
+    "source": "baseline/A_base/SLMRec/slmrec_3_train_export_20260717.py",
+    "release": "causal/baseline/A_base/SLMRec/slmrec_3_train_export.py",
+    "source_sha256": "4ec6ca5c0c4055130db97ba52f87fa3e33f8b5894ff9343887e24166ffe071bd"
+  },
+  {
+    "source": "baseline/A_base/baseline_utils_20260717.py",
+    "release": "causal/baseline/A_base/baseline_utils.py",
+    "source_sha256": "f46e7aaa10d94de7bae955266c336ecb8d0b96bb9c206bd4e31cb2fecc2ad941"
+  },
+  {
+    "source": "baseline/A_base/run_suning_baselines_20260717.py",
+    "release": "causal/baseline/A_base/run_suning_baselines.py",
+    "source_sha256": "79401503758b8a0535e0d43ad37249079247568d703b58478791d81e8495dea7"
+  },
+  {
+    "source": "baseline/amazon/A_base_20260718/CIRS/cirs_1_prep_data_20260718.py",
+    "release": "causal/baseline/amazon/A_base/CIRS/cirs_1_prep_data.py",
+    "source_sha256": "24adcca261e354027dc9325b1288b9bf0832234d99c51f00d7ad10bbfeeb1c1f"
+  },
+  {
+    "source": "baseline/amazon/A_base_20260718/CIRS/cirs_2_model_api_20260718.py",
+    "release": "causal/baseline/amazon/A_base/CIRS/cirs_2_model_api.py",
+    "source_sha256": "a8f9948f562435848365070c6bed24c3306a1c50057db7a593206f7915806af6"
+  },
+  {
+    "source": "baseline/amazon/A_base_20260718/CIRS/cirs_3_train_export_20260718.py",
+    "release": "causal/baseline/amazon/A_base/CIRS/cirs_3_train_export.py",
+    "source_sha256": "083921f3abffb529db930bb4d9d2b4c88080c7e1379140a4c5215b275762934a"
+  },
+  {
+    "source": "baseline/amazon/A_base_20260718/DICE/dice_1_prep_data_20260718.py",
+    "release": "causal/baseline/amazon/A_base/DICE/dice_1_prep_data.py",
+    "source_sha256": "33fe2fa33e3089da3fa5e67c28009a070b38098d0f3f72ecbea02297a10258a5"
+  },
+  {
+    "source": "baseline/amazon/A_base_20260718/DICE/dice_2_model_wrapper_20260718.py",
+    "release": "causal/baseline/amazon/A_base/DICE/dice_2_model_wrapper.py",
+    "source_sha256": "5ae7d8d2d9d3a18efc7f130ab08446086c94320e798b35732e7f4160ec7847b8"
+  },
+  {
+    "source": "baseline/amazon/A_base_20260718/DICE/dice_3_train_export_20260718.py",
+    "release": "causal/baseline/amazon/A_base/DICE/dice_3_train_export.py",
+    "source_sha256": "585478b17b49dc5b5c65288e240df6f58a14e2e1c8f8cb818a4e93c9de538766"
+  },
+  {
+    "source": "baseline/amazon/A_base_20260718/KMCLR/kmclr_1_build_data_20260718.py",
+    "release": "causal/baseline/amazon/A_base/KMCLR/kmclr_1_build_data.py",
+    "source_sha256": "7cf1716675b9f367e0d30dabee893ffa48ed3d9cf526d81fa9e053b974e7a86c"
+  },
+  {
+    "source": "baseline/amazon/A_base_20260718/KMCLR/kmclr_2_core_engine_20260718.py",
+    "release": "causal/baseline/amazon/A_base/KMCLR/kmclr_2_core_engine.py",
+    "source_sha256": "c8732c1c0d345fc90363420de24eed44cf86ec937b393f13d4774517cf50b008"
+  },
+  {
+    "source": "baseline/amazon/A_base_20260718/KMCLR/kmclr_3_train_and_export_20260718.py",
+    "release": "causal/baseline/amazon/A_base/KMCLR/kmclr_3_train_and_export.py",
+    "source_sha256": "fbba30662af0548767f3eac445f488854f172fcb5db8bcfc69191483b445e0ad"
+  },
+  {
+    "source": "baseline/amazon/A_base_20260718/MBGCN/mbgcn_1_build_graph_data_20260718.py",
+    "release": "causal/baseline/amazon/A_base/MBGCN/mbgcn_1_build_graph_data.py",
+    "source_sha256": "fbabd78ac0ce26d0382d4f287a58100ae0997ee9fd563395dc8f9d31fbc3a646"
+  },
+  {
+    "source": "baseline/amazon/A_base_20260718/MBGCN/mbgcn_2_core_engine_20260718.py",
+    "release": "causal/baseline/amazon/A_base/MBGCN/mbgcn_2_core_engine.py",
+    "source_sha256": "e3a9a6862d6341d76df5be87e2af57180bc0c38c99108068aaa06a7a68abdebb"
+  },
+  {
+    "source": "baseline/amazon/A_base_20260718/MBGCN/mbgcn_3_train_and_export_20260718.py",
+    "release": "causal/baseline/amazon/A_base/MBGCN/mbgcn_3_train_and_export.py",
+    "source_sha256": "76bd118855378185d911064f036b52617c33cec1ca02e45580690b60d551c145"
+  },
+  {
+    "source": "baseline/amazon/A_base_20260718/MGAT/mgat_1_prep_data_20260718.py",
+    "release": "causal/baseline/amazon/A_base/MGAT/mgat_1_prep_data.py",
+    "source_sha256": "4ec78746bab2d0dce43ac58aa75d035640571da3e44b91ecc2a7fb2f1913197b"
+  },
+  {
+    "source": "baseline/amazon/A_base_20260718/MGAT/mgat_2_core_engine_20260718.py",
+    "release": "causal/baseline/amazon/A_base/MGAT/mgat_2_core_engine.py",
+    "source_sha256": "6422ac817256e45d025e53ed4c188d01815d7751986718680954c1b9b8635578"
+  },
+  {
+    "source": "baseline/amazon/A_base_20260718/MGAT/mgat_3_train_export_20260718.py",
+    "release": "causal/baseline/amazon/A_base/MGAT/mgat_3_train_export.py",
+    "source_sha256": "19a808150a918669cd9a2cd8266f44ed9e67818b82af29e59d4f3d9cce568762"
+  },
+  {
+    "source": "baseline/amazon/A_base_20260718/MGCE/mgce_1_prep_data_20260718.py",
+    "release": "causal/baseline/amazon/A_base/MGCE/mgce_1_prep_data.py",
+    "source_sha256": "f0dc624dda6abb5a6ca77833b67f89a876fbebf2c97dfebce59b81ee578d7d15"
+  },
+  {
+    "source": "baseline/amazon/A_base_20260718/MGCE/mgce_2_model_api_20260718.py",
+    "release": "causal/baseline/amazon/A_base/MGCE/mgce_2_model_api.py",
+    "source_sha256": "594eddea52a8e002768e4e0a886945ab301503b37c6fb716bba1ca046fe86c7f"
+  },
+  {
+    "source": "baseline/amazon/A_base_20260718/MGCE/mgce_3_train_export_20260718.py",
+    "release": "causal/baseline/amazon/A_base/MGCE/mgce_3_train_export.py",
+    "source_sha256": "b0027f317d4431df4dea221a9a4b2ca4b99600cbb502eb7d23db967cb1e0e689"
+  },
+  {
+    "source": "baseline/amazon/A_base_20260718/MICRO/micro_1_prep_data_20260718.py",
+    "release": "causal/baseline/amazon/A_base/MICRO/micro_1_prep_data.py",
+    "source_sha256": "f56ebc1a6e60e70832a001eeed03a8297ff9be2517d130cb8414d976164151c0"
+  },
+  {
+    "source": "baseline/amazon/A_base_20260718/MICRO/micro_2_core_engine_20260718.py",
+    "release": "causal/baseline/amazon/A_base/MICRO/micro_2_core_engine.py",
+    "source_sha256": "6bb1c5cf1dbe1d5da114f8f17e91fb48551059eb9d049c3acf2936cc8112a0ef"
+  },
+  {
+    "source": "baseline/amazon/A_base_20260718/MICRO/micro_3_train_export_20260718.py",
+    "release": "causal/baseline/amazon/A_base/MICRO/micro_3_train_export.py",
+    "source_sha256": "7176d1477b88819aad4c79606e60bd48e1eb4af7eda80af1106b2004c80ed21c"
+  },
+  {
+    "source": "baseline/amazon/A_base_20260718/SLMRec/slmrec_1_prep_data_20260718.py",
+    "release": "causal/baseline/amazon/A_base/SLMRec/slmrec_1_prep_data.py",
+    "source_sha256": "b2a4b69224744cf44853dd5298b2a20c3036f2972957d494884b4fcd015a7610"
+  },
+  {
+    "source": "baseline/amazon/A_base_20260718/SLMRec/slmrec_2_model_wrapper_20260718.py",
+    "release": "causal/baseline/amazon/A_base/SLMRec/slmrec_2_model_wrapper.py",
+    "source_sha256": "84b338ba9c0a13cdf746f315cd18323131d5419d18806e828b5a6d7559bb7d63"
+  },
+  {
+    "source": "baseline/amazon/A_base_20260718/SLMRec/slmrec_3_train_export_20260718.py",
+    "release": "causal/baseline/amazon/A_base/SLMRec/slmrec_3_train_export.py",
+    "source_sha256": "4476639af7eda8f33da647fe22ded49ab7e993805cafa175194f9a503b20a549"
+  },
+  {
+    "source": "baseline/amazon/A_base_20260718/amazon_baseline_utils_20260718.py",
+    "release": "causal/baseline/amazon/A_base/amazon_baseline_utils.py",
+    "source_sha256": "2da41a17aff5953d936d0acce00229180386a731708975590ec625a2e1a28ee1"
+  },
+  {
+    "source": "baseline/amazon/dcml_recommender_core_amazon_20260718.py",
+    "release": "causal/baseline/amazon/dcml_recommender_core_amazon.py",
+    "source_sha256": "b6d64461c6cadbd2214e7a31b8151783efc2e0705da6d3a5efe29895370f0b86"
+  },
+  {
+    "source": "baseline/amazon/run_amazon_prediction_multiseed_20260718.py",
+    "release": "causal/baseline/amazon/run_amazon_prediction_multiseed.py",
+    "source_sha256": "78c5ee8efaff38c04579dd96bd6ae7ad38c61e0ca503f5f20935240c81b03d0f"
+  },
+  {
+    "source": "baseline/amazon/run_amazon_prediction_multiseed_app_20260719.py",
+    "release": "causal/baseline/amazon/run_amazon_prediction_multiseed_app.py",
+    "source_sha256": "177c310d58c18564342b747e88694ffbe42aeed849c4333899ce8a14671feb07"
+  },
+  {
+    "source": "baseline/amazon/run_amazon_prediction_multiseed_beauty_20260719.py",
+    "release": "causal/baseline/amazon/run_amazon_prediction_multiseed_beauty.py",
+    "source_sha256": "20060b202425389bd169cd21b891ba9fbfbc03df4bfab5ec608d41def69c63d0"
+  },
+  {
+    "source": "baseline/amazon/run_prediction_baselines_amazon_20260718.py",
+    "release": "causal/baseline/amazon/run_prediction_baselines_amazon.py",
+    "source_sha256": "1d7b9fe08f3b1e3f504e18fc6ffeec53a36819524d0253062b663d5a0d84907a"
+  },
+  {
+    "source": "baseline/amazon/run_prediction_baselines_amazon_app_20260718.py",
+    "release": "causal/baseline/amazon/run_prediction_baselines_amazon_app.py",
+    "source_sha256": "4e7b53b42283266bd98603fe822d2a4b2f43ab2fd2ae02d96c4e34fff41bf582"
+  },
+  {
+    "source": "baseline/amazon/run_prediction_baselines_amazon_beauty_20260718.py",
+    "release": "causal/baseline/amazon/run_prediction_baselines_amazon_beauty.py",
+    "source_sha256": "6db9f54bc2c66ff89c78fef56e6363f97050bc5e04a11aa4be3cb5d09144643c"
+  },
+  {
+    "source": "baseline/amazon/step1_prepare_prediction_baseline_amazon_20260718.py",
+    "release": "causal/baseline/amazon/step1_prepare_prediction_baseline_amazon.py",
+    "source_sha256": "4a26ab6af60f47bf54d1bf6ea46458c6c95431007aefc67c3cdd34987a536ea8"
+  },
+  {
+    "source": "baseline/amazon/step1_prepare_prediction_baseline_amazon_app_20260718.py",
+    "release": "causal/baseline/amazon/step1_prepare_prediction_baseline_amazon_app.py",
+    "source_sha256": "fd1af74d9b3e32eb31b54102761670383fa269fd069885cbdf16df2f97e3b10f"
+  },
+  {
+    "source": "baseline/amazon/step1_prepare_prediction_baseline_amazon_beauty_20260718.py",
+    "release": "causal/baseline/amazon/step1_prepare_prediction_baseline_amazon_beauty.py",
+    "source_sha256": "0752e23d6c15b79125c3fdb74c0dd98c0c4227d7869df9295a386f9c7b455011"
+  },
+  {
+    "source": "baseline/amazon/step2_train_dcml_recommender_amazon_20260718.py",
+    "release": "causal/baseline/amazon/step2_train_dcml_recommender_amazon.py",
+    "source_sha256": "bcfd67f31ff70e7b490cd751baf904a91d37aea8586ecaa28deddf63164dc381"
+  },
+  {
+    "source": "baseline/amazon/step2_train_dcml_recommender_amazon_app_20260718.py",
+    "release": "causal/baseline/amazon/step2_train_dcml_recommender_amazon_app.py",
+    "source_sha256": "39c88f57e019da23c369f45390252250042553a2c4ffa2efaede17f5bc33950c"
+  },
+  {
+    "source": "baseline/amazon/step2_train_dcml_recommender_amazon_beauty_20260718.py",
+    "release": "causal/baseline/amazon/step2_train_dcml_recommender_amazon_beauty.py",
+    "source_sha256": "a879707568eb603ea7648420bd92e16818c13ce0c42b0afad4ddb810bd86469b"
+  },
+  {
+    "source": "baseline/amazon/step3_evaluate_dcml_recommender_amazon_20260718.py",
+    "release": "causal/baseline/amazon/step3_evaluate_dcml_recommender_amazon.py",
+    "source_sha256": "4337a1d2a38b7428693953da1f548df0be5cb00a83367b2aaf0b2a0f8f694bc4"
+  },
+  {
+    "source": "baseline/amazon/step3_evaluate_dcml_recommender_amazon_app_20260718.py",
+    "release": "causal/baseline/amazon/step3_evaluate_dcml_recommender_amazon_app.py",
+    "source_sha256": "25324374e993bdd005a132b28d948baeda802a971befc9f639ee23d33b0d5da4"
+  },
+  {
+    "source": "baseline/amazon/step3_evaluate_dcml_recommender_amazon_beauty_20260718.py",
+    "release": "causal/baseline/amazon/step3_evaluate_dcml_recommender_amazon_beauty.py",
+    "source_sha256": "caeaf979c2fa03be16270bd63c9ddd665589e5a2529baff7c43b38a5ec7b6e03"
+  },
+  {
+    "source": "baseline/amazon/step4_compare_prediction_models_amazon_20260718.py",
+    "release": "causal/baseline/amazon/step4_compare_prediction_models_amazon.py",
+    "source_sha256": "19267ded27f4cb4d674185d09ca4bf6208d50195449124c70c2f220dab3f56d9"
+  },
+  {
+    "source": "baseline/amazon/step4_compare_prediction_models_amazon_app_20260718.py",
+    "release": "causal/baseline/amazon/step4_compare_prediction_models_amazon_app.py",
+    "source_sha256": "4e31fe9874870ae3ff52caacf0f6ff3dbe643c3a9624ca87cf2cf3247a4aceae"
+  },
+  {
+    "source": "baseline/amazon/step4_compare_prediction_models_amazon_beauty_20260718.py",
+    "release": "causal/baseline/amazon/step4_compare_prediction_models_amazon_beauty.py",
+    "source_sha256": "47bb7e44b849c7ed84117f57c7108cd55807394974b689f555d41178465733f5"
+  },
+  {
+    "source": "baseline/amazon/step5_candidate_sensitivity_amazon_20260718.py",
+    "release": "causal/baseline/amazon/step5_candidate_sensitivity_amazon.py",
+    "source_sha256": "cb59add3fb94f6defded5648c489adb2a8f7fb71624c018528dcc73dbe5d2e1b"
+  },
+  {
+    "source": "baseline/amazon/step5_candidate_sensitivity_amazon_app_20260718.py",
+    "release": "causal/baseline/amazon/step5_candidate_sensitivity_amazon_app.py",
+    "source_sha256": "a5e74378b7d5cc8914fba393317efaf6f2df3be4b77571d2c633f1a9e82ed4b9"
+  },
+  {
+    "source": "baseline/amazon/step5_candidate_sensitivity_amazon_beauty_20260718.py",
+    "release": "causal/baseline/amazon/step5_candidate_sensitivity_amazon_beauty.py",
+    "source_sha256": "53f8c2854b811b79426d7dfea014123f5fc5492d451e4d5f65c59c17562a0252"
+  },
+  {
+    "source": "baseline/amazon/treatment_feature_ablation_amazon_app_20260719.py",
+    "release": "causal/baseline/amazon/treatment_feature_ablation_amazon_app.py",
+    "source_sha256": "1ea7c23763c2000293455d8422b66cc93027b0acd2a7febc083c3760a8846999"
+  },
+  {
+    "source": "baseline/amazon/treatment_feature_ablation_amazon_beauty_20260719.py",
+    "release": "causal/baseline/amazon/treatment_feature_ablation_amazon_beauty.py",
+    "source_sha256": "b84c6cf9cb26191ac8ae297af3f415420f92fa01ed782fcc6cfb924f0a6e896b"
+  },
+  {
+    "source": "baseline/prediction_multiseed_supplement_20260719.py",
+    "release": "causal/baseline/prediction_multiseed_supplement.py",
+    "source_sha256": "2f0e129932c6030473992b28704154bdb92aecf9ff405884dbe83bd6223936d2"
+  },
+  {
+    "source": "baseline/summarize_prediction_multiseed_20260720.py",
+    "release": "causal/baseline/summarize_prediction_multiseed.py",
+    "source_sha256": "15e5087914e3a9221c242a4ad6448dc9d5e8df76251c93f3cb4bf0fb67db461c"
+  },
+  {
+    "source": "baseline/suning/dcml_recommender_core_20260717.py",
+    "release": "causal/baseline/suning/dcml_recommender_core.py",
+    "source_sha256": "d0808cf013da3af08cde43bbc0f83e958395eb5b1d8900104c0fd46987d84a95"
+  },
+  {
+    "source": "baseline/suning/run_suning_multiseed_20260719.py",
+    "release": "causal/baseline/suning/run_suning_multiseed.py",
+    "source_sha256": "ae94d4348cbc4b1f2d1165bbcd826dc316f52f1889d67e0b8f04a33e7dcf8565"
+  },
+  {
+    "source": "baseline/suning/step1_prepare_baseline_data_20260717.py",
+    "release": "causal/baseline/suning/step1_prepare_baseline_data.py",
+    "source_sha256": "facab0777598897c67ad03ed22293916cbca28886e4c01324604ce3ad1e167ed"
+  },
+  {
+    "source": "baseline/suning/step2_train_dcml_recommender_20260717.py",
+    "release": "causal/baseline/suning/step2_train_dcml_recommender.py",
+    "source_sha256": "4082cb109ddd2b7ffd40b01d8a3bfad6f0fda1011db52e04bbd5c7ff7ceb8d4d"
+  },
+  {
+    "source": "baseline/suning/step3_4_evaluate_dcml_20260717.py",
+    "release": "causal/baseline/suning/step3_4_evaluate_dcml.py",
+    "source_sha256": "05649d75a0e8eb98f562c85574948109ef08c9d090ed76810fe10ba13c1d21a0"
+  },
+  {
+    "source": "baseline/suning/step4_compare_all_models_20260717.py",
+    "release": "causal/baseline/suning/step4_compare_all_models.py",
+    "source_sha256": "093b913866c14ba903c179ec17e0d353dc801bd8bed3d40c75f05be1149adf2f"
+  },
+  {
+    "source": "baseline/suning/step5_candidate_sensitivity_20260717.py",
+    "release": "causal/baseline/suning/step5_candidate_sensitivity.py",
+    "source_sha256": "dfd49348f140d1f2e69a0b3c855238c1dae4613d9859c80169cf968f8aae7925"
+  },
+  {
+    "source": "baseline/suning/treatment_feature_ablation_20260719.py",
+    "release": "causal/baseline/suning/treatment_feature_ablation.py",
+    "source_sha256": "d64eb3508c3d091124006e31c51e62d144cf9c45e5f62dc45806b5c4e250ff7a"
+  },
+  {
+    "source": "build_claim_aligned_robustness_20260729_2.py",
+    "release": "causal/build_claim_aligned_robustness.py",
+    "source_sha256": "e13e25ac056cd2b7e781dcd7cc1bb0060b5b068bd9db2a0c85137f278b826cc5"
+  },
+  {
+    "source": "channel_analysis_reporting_20260719.py",
+    "release": "causal/channel_analysis_reporting.py",
+    "source_sha256": "e16680f8b9ec800e4d4c636cf1ee9d3298875d050b61e76ea047388b06ede12c"
+  },
+  {
+    "source": "data_preprocessing/amazon_appliances_preprocessing/build_y_funnel_amazon_20260713.py",
+    "release": "causal/data_preprocessing/amazon_appliances_preprocessing/build_y_funnel_amazon.py",
+    "source_sha256": "70db557f495b426486fedfcfaf124c5242f5e86f6843c0c1cc0a2e6276256ced"
+  },
+  {
+    "source": "data_preprocessing/amazon_appliances_preprocessing/download_images_amazon_app.py",
+    "release": "causal/data_preprocessing/amazon_appliances_preprocessing/download_images_amazon_app.py",
+    "source_sha256": "e80819b6b59e46ee76f02ebdd248c445ff1aba748dc505486813b3a3218bb9f1"
+  },
+  {
+    "source": "data_preprocessing/amazon_appliances_preprocessing/process_confounders_20260713.py",
+    "release": "causal/data_preprocessing/amazon_appliances_preprocessing/process_confounders.py",
+    "source_sha256": "08050113982a5be3c522187dbefc9c6b7b1756ad30d003f2da0e875c7f17fe36"
+  },
+  {
+    "source": "data_preprocessing/amazon_appliances_preprocessing/process_item_reviews_amazon_20260713.py",
+    "release": "causal/data_preprocessing/amazon_appliances_preprocessing/process_item_reviews_amazon.py",
+    "source_sha256": "7701d32ffeee3c8ae390847ee566bc7848d2493316410e7af13549fb2f60323e"
+  },
+  {
+    "source": "data_preprocessing/amazon_beauty_preprocessing/download_images_amazon_beauty.py",
+    "release": "causal/data_preprocessing/amazon_beauty_preprocessing/download_images_amazon_beauty.py",
+    "source_sha256": "9a026343ad9fcba2c3a01f5c8c80817f49bc646c96991e92a8485957c43c5c2a"
+  },
+  {
+    "source": "data_preprocessing/suning_preprocessing/build_y_funnel_20260712.py",
+    "release": "causal/data_preprocessing/suning_preprocessing/build_y_funnel.py",
+    "source_sha256": "347dfebb97bbb7e7d94a71e93b301329a472080bc4ca404373c3dd438544bf2b"
+  },
+  {
+    "source": "data_preprocessing/suning_preprocessing/download_images_suning.py",
+    "release": "causal/data_preprocessing/suning_preprocessing/download_images_suning.py",
+    "source_sha256": "0c0709d4465089d4d23ba806f71225bcc707b263e434539ee424ce3fc5e1a2ee"
+  },
+  {
+    "source": "data_preprocessing/suning_preprocessing/process_confounder_user.py",
+    "release": "causal/data_preprocessing/suning_preprocessing/process_confounder_user.py",
+    "source_sha256": "3a552f2b47ba335c4eddccb2ba3b5db53693897e497eae427be2c5323ce636db"
+  },
+  {
+    "source": "data_preprocessing/suning_preprocessing/process_item_reviews.py",
+    "release": "causal/data_preprocessing/suning_preprocessing/process_item_reviews.py",
+    "source_sha256": "8828eaee3ff946af547aa4d44943c49647d5cdb4de7573d7df74e0d08e6bc98d"
+  },
+  {
+    "source": "data_preprocessing/suning_preprocessing/process_item_text&confounder.py",
+    "release": "causal/data_preprocessing/suning_preprocessing/process_item_text_and_confounder.py",
+    "source_sha256": "16ed51974835e06848d4ce2c2c415f0a7f4f740bcc99e76c9d8487d03cfd6330"
+  },
+  {
+    "source": "dcml_causal_baselines_20260719.py",
+    "release": "causal/dcml_causal_baselines.py",
+    "source_sha256": "fd180d541afa5a0a663558c84e3cdfdcb8607a6f2bc259a2d1824d7ca1c15006"
+  },
+  {
+    "source": "dcml_formal_tests_20260717.py",
+    "release": "causal/dcml_formal_tests.py",
+    "source_sha256": "44f3493a79ea39ab37aa8fabc58a2e6a1da26ce86ce7d86afc488639bbbdf65f"
+  },
+  {
+    "source": "dcml_gs_sensitivity_20260717.py",
+    "release": "causal/dcml_gs_sensitivity.py",
+    "source_sha256": "4e16fa142c84fe779b0abb3b2708668b73ea395caa9748ca88665a7552a9b9eb"
+  },
+  {
+    "source": "dcml_h3_observed_levels_20260719.py",
+    "release": "causal/dcml_h3_observed_levels.py",
+    "source_sha256": "82bc1e6e3b998453303879cd5df49f5f0eb408df6270e3d14b66b5b9f907adb4"
+  },
+  {
+    "source": "dcml_inference_20260717.py",
+    "release": "causal/dcml_inference.py",
+    "source_sha256": "f345c3d6a826de002c08170ee6a9cc3b865b3fc1f34e4e248bee4f1304a51c67"
+  },
+  {
+    "source": "dcml_nuisance_20260717.py",
+    "release": "causal/dcml_nuisance.py",
+    "source_sha256": "f9679cab77965fe9c1f390b6594a829aade663ae9bdcff9be3cb456d2f39c3c8"
+  },
+  {
+    "source": "dcml_specification_sensitivity_20260719.py",
+    "release": "causal/dcml_specification_sensitivity.py",
+    "source_sha256": "14429f6e961adb7e961c6bb54335a2e826f5f4f04af670e9b459f835957e8cb5"
+  },
+  {
+    "source": "dcml_utils_20260713.py",
+    "release": "causal/dcml_utils.py",
+    "source_sha256": "4dc9ed0cc8e4eee5d14fd5339f61d6a208b3f4a9c66fb2e2882d88a6604e19aa"
+  },
+  {
+    "source": "dml_ovb_sensitivity_20260728.py",
+    "release": "causal/dml_ovb_sensitivity.py",
+    "source_sha256": "8468c4f6df48dd122a571806ebf6627bcc8f9eeeca96f672c576f439aae8bc2a"
+  },
+  {
+    "source": "enhance/enhance_common_20260730.py",
+    "release": "causal/enhance/enhance_common.py",
+    "source_sha256": "2c12dc82e0e6fb1aa00f8edc228c42a8b37ca3192a0c1e198013a12c2bf12385"
+  },
+  {
+    "source": "enhance/run_cross_mllm_inference_20260801.py",
+    "release": "causal/enhance/run_cross_mllm_inference.py",
+    "source_sha256": "120bdfc26f74d2635bd6e58d27be16b27cca725b1cc9874b37bc976074f883e5"
+  },
+  {
+    "source": "enhance/run_cross_mllm_measurement_audit_20260801.py",
+    "release": "causal/enhance/run_cross_mllm_measurement_audit.py",
+    "source_sha256": "9e5244b36844b6f4a84b933524a114ec5d12354d2bbd5f3430bf8c07dd65cf07"
+  },
+  {
+    "source": "enhance/run_efficiency_cost_benchmark_20260730.py",
+    "release": "causal/enhance/run_efficiency_cost_benchmark.py",
+    "source_sha256": "ef340d449ab6440135fa38ffb7d827bb78b2fd1df4b122311c20da88f47d7e76"
+  },
+  {
+    "source": "enhance/run_taxonomy_admissibility_sensitivity_20260730.py",
+    "release": "causal/enhance/run_taxonomy_admissibility_sensitivity.py",
+    "source_sha256": "6effc098b19ba4f59f56aed71f3959b6b12f8b2ba4c0e0068b942138993d2df9"
+  },
+  {
+    "source": "model/M_amazon/DML/causal_baseline_comparison_amazon_app_20260719.py",
+    "release": "causal/model/M_amazon/DML/causal_baseline_comparison_amazon_app.py",
+    "source_sha256": "89da63a0f7920a1828cffb7a7b1879e7234d2614590fbbf980bd207e166560b3"
+  },
+  {
+    "source": "model/M_amazon/DML/causal_baseline_comparison_amazon_beauty_20260719.py",
+    "release": "causal/model/M_amazon/DML/causal_baseline_comparison_amazon_beauty.py",
+    "source_sha256": "431e4f776109739de232422b73ef517170649d52ce735b251a676cfce246aefc"
+  },
+  {
+    "source": "model/M_amazon/DML/causal_baseline_support_consistency_amazon_beauty_20260720.py",
+    "release": "causal/model/M_amazon/DML/causal_baseline_support_consistency_amazon_beauty.py",
+    "source_sha256": "1145d162163f08772cb0a6434ba3670b5443e9163b2897634941b6c6779e85fe"
+  },
+  {
+    "source": "model/M_amazon/DML/dcml_step3_channel_reporting_amazon_app_20260719.py",
+    "release": "causal/model/M_amazon/DML/dcml_step3_channel_reporting_amazon_app.py",
+    "source_sha256": "e2e8aa34982f1f47fac0328e739d017400b497984862e44d8e27f2fc98c14e17"
+  },
+  {
+    "source": "model/M_amazon/DML/dcml_step3_channel_reporting_amazon_beauty_20260719.py",
+    "release": "causal/model/M_amazon/DML/dcml_step3_channel_reporting_amazon_beauty.py",
+    "source_sha256": "c0dc9ce9286248b4d56f9e83c02f6336d1f57264cc0af5807aef66b10692f1d5"
+  },
+  {
+    "source": "model/M_amazon/DML/dcml_step3_mediation_amazon_app_20260717.py",
+    "release": "causal/model/M_amazon/DML/dcml_step3_mediation_amazon_app.py",
+    "source_sha256": "ee4bff241cf7c56181a93ad701dcde2babc36883402bbe8a3b5b353a977c0a45"
+  },
+  {
+    "source": "model/M_amazon/DML/dcml_step3_mediation_amazon_beauty_20260717.py",
+    "release": "causal/model/M_amazon/DML/dcml_step3_mediation_amazon_beauty.py",
+    "source_sha256": "13a54f1b0e486a503c8978523d2069a0b2f3a4fa082a9e20bf9447cb41b3e76b"
+  },
+  {
+    "source": "model/M_amazon/DML/dml_step1_nuisance_amazon_app_20260717.py",
+    "release": "causal/model/M_amazon/DML/dml_step1_nuisance_amazon_app.py",
+    "source_sha256": "41aa165fe40f8ec3ead4b820e05cc7d6d2122ed6811cf5f8a353b2f54319b233"
+  },
+  {
+    "source": "model/M_amazon/DML/dml_step1_nuisance_amazon_beauty_20260717.py",
+    "release": "causal/model/M_amazon/DML/dml_step1_nuisance_amazon_beauty.py",
+    "source_sha256": "5ed574604ceeb10094123c6e03a8d95ed62efb5fb15a4b3245ad3373ae50c327"
+  },
+  {
+    "source": "model/M_amazon/DML/dml_step2_causal_inference_amazon_app_20260717.py",
+    "release": "causal/model/M_amazon/DML/dml_step2_causal_inference_amazon_app.py",
+    "source_sha256": "b4a868c53c25daefc1f9b3b87114118d7faa3d8d38d57eaccda49c8aa9a55379"
+  },
+  {
+    "source": "model/M_amazon/DML/dml_step2_causal_inference_amazon_beauty_20260717.py",
+    "release": "causal/model/M_amazon/DML/dml_step2_causal_inference_amazon_beauty.py",
+    "source_sha256": "52e3d8c321c9b50f3118e996465d07cdc516c9e68da9b196d9048ce1f9a3ccb5"
+  },
+  {
+    "source": "model/M_amazon/DML/gs_order_sensitivity_amazon_app_20260717.py",
+    "release": "causal/model/M_amazon/DML/gs_order_sensitivity_amazon_app.py",
+    "source_sha256": "d533f4dbce3688f7cb648f29e0f511a3014b21f3aa835fbce932285f1e41be67"
+  },
+  {
+    "source": "model/M_amazon/DML/gs_order_sensitivity_amazon_beauty_20260717.py",
+    "release": "causal/model/M_amazon/DML/gs_order_sensitivity_amazon_beauty.py",
+    "source_sha256": "a5edc80ba23b490586b07f22877b259354e00aacf83b28c642cdff1caf8ab4e6"
+  },
+  {
+    "source": "model/M_amazon/DML/h3_moderation_interaction_amazon_app_20260719.py",
+    "release": "causal/model/M_amazon/DML/h3_moderation_interaction_amazon_app.py",
+    "source_sha256": "2d0b07572fb2d91cdd48e10314c9adfd21a34135d6876639628ad5053c305b60"
+  },
+  {
+    "source": "model/M_amazon/DML/h3_moderation_interaction_amazon_beauty_20260719.py",
+    "release": "causal/model/M_amazon/DML/h3_moderation_interaction_amazon_beauty.py",
+    "source_sha256": "133551ead3c141aa6ea06fa83685981ace847ce5cb6c2dc7781b2a81a03207ac"
+  },
+  {
+    "source": "model/M_amazon/DML/omitted_confounding_sensitivity_amazon_app_20260728.py",
+    "release": "causal/model/M_amazon/DML/omitted_confounding_sensitivity_amazon_app.py",
+    "source_sha256": "0a6f9666f013e05e33ce53537ec44edc33469711c59964c9dc6a62206a829faa"
+  },
+  {
+    "source": "model/M_amazon/DML/omitted_confounding_sensitivity_amazon_beauty_20260728.py",
+    "release": "causal/model/M_amazon/DML/omitted_confounding_sensitivity_amazon_beauty.py",
+    "source_sha256": "f808e8d821f740f77f5157a18df4fe1de97d77319283455f215ffe2be44a10d9"
+  },
+  {
+    "source": "model/M_amazon/DML/placebo_test_amazon_app_20260717.py",
+    "release": "causal/model/M_amazon/DML/placebo_test_amazon_app.py",
+    "source_sha256": "7f99ebff1cd33220c4ad731994d5a8d089d13ea2bcd7c62a49a15ce19c78cac7"
+  },
+  {
+    "source": "model/M_amazon/DML/placebo_test_amazon_beauty_20260717.py",
+    "release": "causal/model/M_amazon/DML/placebo_test_amazon_beauty.py",
+    "source_sha256": "b5588b9f2c780ee07c71885f153cb1ac69c18732104807bdb9b2cee133b558ae"
+  },
+  {
+    "source": "model/M_amazon/DML/robustness_value_amazon_app_20260717.py",
+    "release": "causal/model/M_amazon/DML/robustness_value_amazon_app.py",
+    "source_sha256": "c1e651b6df5108456ed6904043604fe90b2eddbf0ea681447b9b1312c993c836"
+  },
+  {
+    "source": "model/M_amazon/DML/robustness_value_amazon_beauty_20260717.py",
+    "release": "causal/model/M_amazon/DML/robustness_value_amazon_beauty.py",
+    "source_sha256": "8b6916963f2e47f1010d1e34406f7118449757c5441fb8576c90de91de9888dc"
+  },
+  {
+    "source": "model/M_amazon/DML/rq2_joint_effect_tests_amazon_app_20260723.py",
+    "release": "causal/model/M_amazon/DML/rq2_joint_effect_tests_amazon_app.py",
+    "source_sha256": "2bd1686d829ed738b330aebcc7d3fd56242e2580ffaa150704d0b8726a23e9bd"
+  },
+  {
+    "source": "model/M_amazon/DML/rq2_joint_effect_tests_amazon_beauty_20260723.py",
+    "release": "causal/model/M_amazon/DML/rq2_joint_effect_tests_amazon_beauty.py",
+    "source_sha256": "9f37f948c3affcac46894e4fd55fc01d2bfb229a2f2985d6d45a72016701f997"
+  },
+  {
+    "source": "model/M_amazon/DML/specification_sensitivity_amazon_app_20260719.py",
+    "release": "causal/model/M_amazon/DML/specification_sensitivity_amazon_app.py",
+    "source_sha256": "43a5d914c68eef2edc89d2b40b1d977879e023db7ee0f947c62fbc1a8fc94711"
+  },
+  {
+    "source": "model/M_amazon/DML/specification_sensitivity_amazon_beauty_20260719.py",
+    "release": "causal/model/M_amazon/DML/specification_sensitivity_amazon_beauty.py",
+    "source_sha256": "9e71fc8a2c2546d000c3993a131518853743ce7409454d2ac84eb175cfc8b911"
+  },
+  {
+    "source": "model/M_amazon/MCRE/amazon_dataset_builder_common_20260717.py",
+    "release": "causal/model/M_amazon/MCRE/amazon_dataset_builder_common.py",
+    "source_sha256": "271a86616b559af77967f39a6f8436652f027e90100ae057fbd86dc69c3da2aa"
+  },
+  {
+    "source": "model/M_amazon/MCRE/dataset_builder_amazon_app_20260717.py",
+    "release": "causal/model/M_amazon/MCRE/dataset_builder_amazon_app.py",
+    "source_sha256": "46cc990733f05c3e93acf540dc6905ce5ffbab6e2a35831a3cef4e019bfb2dc6"
+  },
+  {
+    "source": "model/M_amazon/MCRE/dataset_builder_amazon_beauty_20260717.py",
+    "release": "causal/model/M_amazon/MCRE/dataset_builder_amazon_beauty.py",
+    "source_sha256": "82ac61e5b42c6f2d17e5d10cada8ba6805277dc811cab000c82f9a671bd32c5b"
+  },
+  {
+    "source": "model/M_amazon/MCRE/extract_lmm_multimodal_feature_attention_amazon_20260713.py",
+    "release": "causal/model/M_amazon/MCRE/extract_lmm_multimodal_feature_attention_amazon.py",
+    "source_sha256": "d1faef9036f63b17d5f22ec71125f9dc7d9490597298ca69284accb71a5b0079"
+  },
+  {
+    "source": "model/M_amazon/MCRE/merge_multimodal_scalars_amazon_20260713.py",
+    "release": "causal/model/M_amazon/MCRE/merge_multimodal_scalars_amazon.py",
+    "source_sha256": "c8b02ee103a88796702e8d68aa7f3c7a508b3830a63773f0e8b13ababbd5572a"
+  },
+  {
+    "source": "model/M_suning/DML/causal_baseline_comparison_20260719.py",
+    "release": "causal/model/M_suning/DML/causal_baseline_comparison.py",
+    "source_sha256": "04f5371870db469ff73a277fe80a7aa6702c534b8fa280501b20cf460e40150d"
+  },
+  {
+    "source": "model/M_suning/DML/dcml_step1_nuisance_models_20260717.py",
+    "release": "causal/model/M_suning/DML/dcml_step1_nuisance_models.py",
+    "source_sha256": "35e8234ea0169c12cc3ec796501f1b0b7659f953cf809f08779812a27b83c1d5"
+  },
+  {
+    "source": "model/M_suning/DML/dcml_step2_causal_inference_20260717.py",
+    "release": "causal/model/M_suning/DML/dcml_step2_causal_inference.py",
+    "source_sha256": "51c39d3d2f4073d90fbabc9f4d4da659cef99e899c8e45275748de32c92d2d43"
+  },
+  {
+    "source": "model/M_suning/DML/dcml_step3_channel_reporting_20260719.py",
+    "release": "causal/model/M_suning/DML/dcml_step3_channel_reporting.py",
+    "source_sha256": "4867c3e6b637410426957feab75bcfd8be9ac24de68f9d1bfae31f6d2b082852"
+  },
+  {
+    "source": "model/M_suning/DML/dcml_step3_mediation_20260717.py",
+    "release": "causal/model/M_suning/DML/dcml_step3_mediation.py",
+    "source_sha256": "cf8c0524e7c002f288a71ae9a6efbb2c649b7e649c376210d2369bfb9275312c"
+  },
+  {
+    "source": "model/M_suning/DML/gs_order_sensitivity_20260717.py",
+    "release": "causal/model/M_suning/DML/gs_order_sensitivity.py",
+    "source_sha256": "c332f0c0d2f8c641944f1696ed471361726f5240abda54d2cef33f97d0ee3fba"
+  },
+  {
+    "source": "model/M_suning/DML/h3_moderation_interaction_20260719.py",
+    "release": "causal/model/M_suning/DML/h3_moderation_interaction.py",
+    "source_sha256": "6441e27f09085c638577f53c69b64b30ea43e21648d865227c91d7659da60f6a"
+  },
+  {
+    "source": "model/M_suning/DML/h4_stage_contrast_20260717.py",
+    "release": "causal/model/M_suning/DML/h4_stage_contrast.py",
+    "source_sha256": "b7b7325dd7004a86a38aa76e0cfa6e2d5c5112f53a0ebca9d1f168809f69fc69"
+  },
+  {
+    "source": "model/M_suning/DML/omitted_confounding_sensitivity_20260728.py",
+    "release": "causal/model/M_suning/DML/omitted_confounding_sensitivity.py",
+    "source_sha256": "c87357c4fec0f1e25f9055116ca9a21b3c6dda6c22989f8ce4eb85074f1c781b"
+  },
+  {
+    "source": "model/M_suning/DML/placebo_test_20260717.py",
+    "release": "causal/model/M_suning/DML/placebo_test.py",
+    "source_sha256": "c8439fa7f416fb38481725d00c8c646440a74bf05617275a4b3a8bee664e095e"
+  },
+  {
+    "source": "model/M_suning/DML/robustness_value_20260717.py",
+    "release": "causal/model/M_suning/DML/robustness_value.py",
+    "source_sha256": "1bba40984e20489536460934faea69423a8e084f9fd1bc05828e60f761e5074a"
+  },
+  {
+    "source": "model/M_suning/DML/rq2_joint_effect_tests_20260723.py",
+    "release": "causal/model/M_suning/DML/rq2_joint_effect_tests.py",
+    "source_sha256": "6139393b72af934641b5757925c83e7dc4dc65a5af34d774ff11d216b35e7ed8"
+  },
+  {
+    "source": "model/M_suning/DML/specification_sensitivity_20260719.py",
+    "release": "causal/model/M_suning/DML/specification_sensitivity.py",
+    "source_sha256": "c60e9fc1803d46c17109b085c42c78206143a43114ac82a577ab6e93c0ff6bab"
+  },
+  {
+    "source": "model/M_suning/DML/suning_iqr_decision_analysis_20260720.py",
+    "release": "causal/model/M_suning/DML/suning_iqr_decision_analysis.py",
+    "source_sha256": "1303983951b4d2965576acfd6835f3f2bac011d27b3246940b818cd97853a46e"
+  },
+  {
+    "source": "model/M_suning/MCRE/dataset_builder_20260712.py",
+    "release": "causal/model/M_suning/MCRE/dataset_builder.py",
+    "source_sha256": "7adb1d4cecc597fd05485b7a252706426e847aba0622f46f20c5ae619a1d12f8"
+  },
+  {
+    "source": "model/M_suning/MCRE/extract_lmm_multimodal_feature_attention.py",
+    "release": "causal/model/M_suning/MCRE/extract_lmm_multimodal_feature_attention.py",
+    "source_sha256": "191c049b995217d11e4c8d68aa0bf88f5ddc30d9f291fd963c6eaacc1831d01a"
+  },
+  {
+    "source": "model/audit_mcre_measurement_support_20260722.py",
+    "release": "causal/model/audit_mcre_measurement_support.py",
+    "source_sha256": "5b98eeeff10536f52d0c399ecbf7955f13a80e54215163ba0ea3c781e7f0804c"
+  },
+  {
+    "source": "model/audit_mcre_temporal_snapshot_20260717.py",
+    "release": "causal/model/audit_mcre_temporal_snapshot.py",
+    "source_sha256": "95084b16de19caa7b96f25f8f0a1cb80d3201892fb362ea03e6dfb77acbcf167"
+  },
+  {
+    "source": "nuisance_temporal_transport_diagnostics_20260719.py",
+    "release": "causal/nuisance_temporal_transport_diagnostics.py",
+    "source_sha256": "b238de0051d9ab1d7729fbcc3ef79521d499cf363300003cd1f2074fc645a1b4"
+  },
+  {
+    "source": "postprocess_dml_ovb_sensitivity_20260729.py",
+    "release": "causal/postprocess_dml_ovb_sensitivity.py",
+    "source_sha256": "6eeaa3c8ee8a40a683eff70bd09d919612f7b47133aa1cfe315482d7bc363423"
+  },
+  {
+    "source": "recommendation_feature_ablation_20260719.py",
+    "release": "causal/recommendation_feature_ablation.py",
+    "source_sha256": "d68115f0a767a0c140f7acea6c704ca081939b37bc52956505dbd64e2fd665aa"
+  },
+  {
+    "source": "rq2_joint_effect_tests_20260723.py",
+    "release": "causal/rq2_joint_effect_tests.py",
+    "source_sha256": "679f608c5ff493822206961759a6da7f0e415d41ec795c08357a9613a168a3a6"
+  },
+  {
+    "source": "summarize_rq5_robustness_20260729.py",
+    "release": "causal/summarize_rq5_robustness.py",
+    "source_sha256": "74fd0a16fb9951652b8ad730917b434083045ebd18ddf2d9a2e967586b257ba7"
+  },
+  {
+    "source": "temporal_certification_20260717.py",
+    "release": "causal/temporal_certification.py",
+    "source_sha256": "78e1c1863ce079c3f94e8c8b1d0a37bb73d5277bcef962a218d26c8927953c9c"
+  },
+  {
+    "source": "temporal_selection_sensitivity_20260719.py",
+    "release": "causal/temporal_selection_sensitivity.py",
+    "source_sha256": "62cd72cf484e84c2d1932fa3249a020fb69f5e7aa9b1de778d3ff3f4033283a2"
+  },
+  {
+    "source": "validate_claim_aligned_robustness_20260729_2.py",
+    "release": "causal/validate_claim_aligned_robustness.py",
+    "source_sha256": "ab6c9333255ba1328f316066cfa1f7b3b2838f71aa6860860dc8d348ab1fdf4d"
+  },
+  {
+    "source": "validate_rq5_outputs_20260729.py",
+    "release": "causal/validate_rq5_outputs.py",
+    "source_sha256": "f87b988fd87289665d63d2c9cf5b216e6a831433c2e2c5e9f60f21455240ca09"
+  },
+  {
+    "source": "validate_supplemental_outputs_20260719.py",
+    "release": "causal/validate_supplemental_outputs.py",
+    "source_sha256": "4100b018cbed3ba2fc76a6d1ddac2ca0ee7804591f3d928f9dd3484a3d77b195"
+  },
+  {
+    "source": "validate_targeted_corrections_20260720.py",
+    "release": "causal/validate_targeted_corrections.py",
+    "source_sha256": "67f3bb0bb925d5df22f239860225e2f8613e81e740c54eee5eaa622e246df7ea"
+  }
+]

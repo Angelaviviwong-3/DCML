@@ -1,0 +1,9 @@
+{
+  "raw_data": "data/raw",
+  "processed_data": "data/processed",
+  "results_of_comparison": "outputs/prediction",
+  "log": "outputs/logs",
+  "Unified_Visualization/output": "outputs/figures",
+  "enhance/output": "outputs/enhance",
+  "archives": "archives"
+}
